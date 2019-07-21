@@ -1,13 +1,20 @@
 import json, re
 from os import listdir
 from os.path import isfile, join
-from slippi import Game
+from datetime import datetime
 
 replays = [f for f in listdir("../../replays") if isfile(join("../../replays", f))]
 
-#dictionary to serialize to json
-map = {}
+#get existing data (so we don't redo any existing replays)
+with open('../../map.json', 'r') as file:
+    map = json.load(file)
 
-game = Game('../../replays//'+replays[0])
+#generate dictionary for each replay
+for replaypath in replays:
+    #if replay doesn't already exist
+    if not replaypath in map['replays']:
+        map['replays'].append(replaypath)
 
-print(game)
+#dump contents
+with open('../../map.json', 'w+') as f:
+    json.dump(map, f, indent=4)

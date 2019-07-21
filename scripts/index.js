@@ -3,15 +3,16 @@ var vm = new Vue({
     data: {
         files: [],
     },
+    mounted:function(){
+        this.created();
+    },
     methods: {
         //add new item on top of stack
         getAllFiles: function () {
-            var fs = require('fs');
-            this.files = fs.readdirSync('/assets/photos/');
-            console.log(this.files);
+            console.log(files);
         },
         created() {
-            $.getJSON('replay-data.json').then((data) => {
+            $.getJSON('map.json').then((data) => {
                 this.files = data;
             });
         },
