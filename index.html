@@ -1,29 +1,27 @@
 <!DOCTYPE html>
-<html>
 
 <head>
     <title>Wisconsin Slippi Replays</title>
     <link rel="stylesheet" href="include/style.css">
     <link rel="stylesheet" href="include/bootstrap.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Domine|Roboto&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+    <script src="include/require.js"></script>
 </head>
 
 <body class="bg-dark text-light">
-    <div>
-        <div class="container">
-            <div class="pt-3 row">
-                <div class="col-lg-12">
-                    <h1 class="heading">Wisconsin Slippi Archives</h1>
-                </div>
+    <div class="container" id="container">
+        <div class="pt-3 row">
+            <div class="col-lg-12">
+                <h1 class="heading">Wisconsin Slippi Archives</h1>
+                <button v-on:click="getAllFiles()">Get All Files</button>
             </div>
-            <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-lg-8">Stats go here</div>
-                <div class="col-sm-2"></div>
-            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-lg-8">Stats go here</div>
+            <div class="col-sm-2"></div>
         </div>
     </div>
 </body>
-
-</html>
+<script src="scripts/index.js"></script>
