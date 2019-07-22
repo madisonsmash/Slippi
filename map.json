@@ -229,7 +229,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null,
             null
@@ -249,7 +249,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null,
             null
@@ -309,7 +309,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null,
             null
@@ -329,7 +329,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null,
             null
@@ -349,7 +349,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null,
             null
@@ -570,7 +570,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null
         ],
@@ -590,7 +590,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null
         ],
@@ -610,7 +610,7 @@
             {
                 "character": 9,
                 "costume": 2,
-                "tag": "\uff12\uff30\uff21\uff23"
+                "tag": "2PAC"
             },
             null
         ],
@@ -818,5 +818,125 @@
         "datetime": "07/21/2019, 20:36:22",
         "searchdate": "2019-07-21",
         "duration": 10382
+    },
+    "Game_20190722T150953.slp": {
+        "players": [
+            {
+                "character": 21,
+                "costume": 1,
+                "tag": "ABCD"
+            },
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "EFGH"
+            },
+            {
+                "character": 11,
+                "costume": 0,
+                "tag": "IJKL"
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "07/22/2019, 20:09:53",
+        "searchdate": "2019-07-22",
+        "duration": 1260
+    },
+    "Game_20190722T151049.slp": {
+        "players": [
+            {
+                "character": 21,
+                "costume": 1,
+                "tag": "MNOP"
+            },
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "QRST"
+            },
+            {
+                "character": 11,
+                "costume": 0,
+                "tag": "UVWX"
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "07/22/2019, 20:10:49",
+        "searchdate": "2019-07-22",
+        "duration": 173
+    },
+    "Game_20190722T151137.slp": {
+        "players": [
+            {
+                "character": 21,
+                "costume": 1,
+                "tag": "YZ"
+            },
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "  01"
+            },
+            {
+                "character": 11,
+                "costume": 0,
+                "tag": "2345"
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "07/22/2019, 20:11:37",
+        "searchdate": "2019-07-22",
+        "duration": 299
+    },
+    "Game_20190722T151229.slp": {
+        "players": [
+            {
+                "character": 21,
+                "costume": 1,
+                "tag": "6789"
+            },
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "-+=!"
+            },
+            {
+                "character": 11,
+                "costume": 0,
+                "tag": "?@%&"
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "07/22/2019, 20:12:29",
+        "searchdate": "2019-07-22",
+        "duration": 219
+    },
+    "Game_20190722T151250.slp": {
+        "players": [
+            {
+                "character": 21,
+                "costume": 1,
+                "tag": "$."
+            },
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "-+=!"
+            },
+            {
+                "character": 11,
+                "costume": 0,
+                "tag": "?@%&"
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "07/22/2019, 20:12:50",
+        "searchdate": "2019-07-22",
+        "duration": 186
     }
 }

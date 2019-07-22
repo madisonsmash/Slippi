@@ -2,7 +2,7 @@ var vm = new Vue({
     el: '#container',
     data: {
         files: [],
-        stylesheet: "light-style.css",
+        tag: "",
         searchdate: "",
     },
     mounted:function(){

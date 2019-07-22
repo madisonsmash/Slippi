@@ -4,6 +4,56 @@ from os.path import isfile, join
 from datetime import datetime
 from slippi import Game
 
+tagtranslator = {
+    "\uff21": 'A',
+    "\uff22": 'B',
+    "\uff23": 'C',
+    "\uff24": 'D',
+    "\uff25": 'E',
+    "\uff26": 'F',
+    "\uff27": 'G',
+    "\uff28": 'H',
+    "\uff29": 'I',
+    "\uff2a": 'J',
+    "\uff2b": 'K',
+    "\uff2c": 'L',
+    "\uff2d": 'M',
+    "\uff2e": 'N',
+    "\uff2f": 'O',
+    "\uff30": 'P',
+    "\uff31": 'Q',
+    "\uff32": 'R',
+    "\uff33": 'S',
+    "\uff34": 'T',
+    "\uff35": 'U',
+    "\uff36": 'V',
+    "\uff37": 'W',
+    "\uff38": 'X',
+    "\uff39": 'Y',
+    "\uff3a": 'Z',
+    "\u3000": ' ',
+    "\uff10": '0',
+    "\uff11": '1',
+    "\uff12": '2',
+    "\uff13": '3',
+    "\uff14": '4',
+    "\uff15": '5',
+    "\uff16": '6',
+    "\uff17": '7',
+    "\uff18": '8',
+    "\uff19": '9',
+    "\u2212": '-',
+    "\uff0b": '+',
+    "\uff1d": '=',
+    "\uff01": '!',
+    "\uff1f": '?',
+    "\uff20": '@',
+    "\uff05": '%',
+    "\uff06": '&',
+    "\uff04": '$',
+    "\uff0e": '.',
+}
+
 #get list of files
 replays = [f for f in listdir("../../replays") if isfile(join("../../replays", f))]
 
@@ -27,6 +77,8 @@ for replaypath in replays:
                 port['character'] = player.character
                 port['costume'] = player.costume
                 port['tag'] = player.tag
+                for key, replacement in tagtranslator.items():
+                    port['tag'] = port['tag'].replace(key, replacement)
                 players.append(port)
             else:
                 players.append(None)

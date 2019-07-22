@@ -13,8 +13,13 @@
 <body class="bg-dark text-light">
     <div id="container">
         <nav class="navbar navbar-default navbar-fixed-top headbar">
-            <h1 class="heading float-left">Wisconsin Slippi Archives</h1>
-            <div class="float-right form-group">
+            <div class="col-lg-8">
+                <h1 class="heading float-left">Wisconsin Slippi Archives</h1>
+            </div>
+            <div class="col-lg-2 float-right form-group">
+                <input class="form-control" type="text" v-model="tag" placeholder="Search tags" />
+            </div>
+            <div class="col-lg-2 float-right form-group">
                 <input class="form-control" type="date" v-model="searchdate" />
             </div>
         </nav>
@@ -32,12 +37,14 @@
                     </div>
                     <div class="row pt-2 pb-4">
                         <div class="col-sm-4 text-left pl-4">
-                            <img v-bind:src="'images/stages/'+game['stage']+'.png'" height="80px"/>
+                            <img v-bind:src="'images/stages/'+game['stage']+'.png'" height="80px" />
                         </div>
                         <div class="pt-4 col-sm-2 text-center" v-for="(player, index) in game['players']">
-                            <img v-if="player == null" src="images/null.png" height="28px"/>
-                            <img v-else v-bind:src="'images/stockicons/'+player['character']+'-'+player['costume']+'.png'"/>
-                            <div class="pt-2 text-center">Port {{index + 1}}</div>
+                            <img v-if="player == null" src="images/null.png" height="28px" />
+                            <img v-else
+                                v-bind:src="'images/stockicons/'+player['character']+'-'+player['costume']+'.png'" />
+                            <div v-if='player == null || player["tag"].length == 0' class="pt-2 text-center">Port {{index + 1}}</div>
+                            <div v-else class="pt-2 text-center">{{player["tag"]}}</div>
                         </div>
                     </div>
                 </div>
