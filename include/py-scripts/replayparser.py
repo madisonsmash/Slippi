@@ -4,6 +4,7 @@ from os.path import isfile, join
 from datetime import datetime
 from slippi import Game
 
+#codes for non-japanese tag characters
 tagtranslator = {
     "\uff21": 'A',
     "\uff22": 'B',
@@ -70,6 +71,7 @@ for replaypath in replays:
     if not replaypath in map:
         game = Game("../../replays//"+replaypath)
         data = {}
+        #generate list of players in game
         players = []
         for player in game.start.players:
             if player is not None:
@@ -77,8 +79,9 @@ for replaypath in replays:
                 port['character'] = player.character
                 port['costume'] = player.costume
                 port['tag'] = player.tag
-                for key, replacement in tagtranslator.items():
-                    port['tag'] = port['tag'].replace(key, replacement)
+                if len(port['tag']) is not 0:
+                    for key, replacement in tagtranslator.items():
+                        port['tag'] = port['tag'].replace(key, replacement)
                 players.append(port)
             else:
                 players.append(None)
