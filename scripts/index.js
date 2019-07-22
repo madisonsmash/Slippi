@@ -9,14 +9,15 @@ var vm = new Vue({
         this.created();
     },
     methods: {
-        //add new item on top of stack
-        getAllFiles: function () {
-            console.log(this.files);
+        pruneResults: function (game){
+            if(this.searchdate.length == 0) {
+                return true;
+            }
+            return(this.searchdate.includes(game['searchdate']));
         },
         created: function () {
             $.getJSON('map.json').then((data) => {
                 this.files = data;
-                console.log(this.files)
             });
         },
     },

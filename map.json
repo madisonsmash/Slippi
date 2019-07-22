@@ -3,306 +3,360 @@
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 28,
         "datetime": "07/21/2019, 18:05:13",
+        "searchdate": "2019-07-21",
         "duration": 13455
     },
     "Game_20190721T180910.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 18:09:10",
+        "searchdate": "2019-07-21",
         "duration": 10853
     },
     "Game_20190721T181224.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 18:12:24",
+        "searchdate": "2019-07-21",
         "duration": 11617
     },
     "Game_20190721T181555.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 18:15:55",
+        "searchdate": "2019-07-21",
         "duration": 8533
     },
     "Game_20190721T181837.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 3,
         "datetime": "07/21/2019, 18:18:37",
+        "searchdate": "2019-07-21",
         "duration": 12922
     },
     "Game_20190721T182226.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 2,
         "datetime": "07/21/2019, 18:22:26",
+        "searchdate": "2019-07-21",
         "duration": 12986
     },
     "Game_20190721T182626.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 28,
         "datetime": "07/21/2019, 18:26:26",
+        "searchdate": "2019-07-21",
         "duration": 12142
     },
     "Game_20190721T183011.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 3,
         "datetime": "07/21/2019, 18:30:11",
+        "searchdate": "2019-07-21",
         "duration": 9503
     },
     "Game_20190721T183305.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 18:33:05",
+        "searchdate": "2019-07-21",
         "duration": 10038
     },
     "Game_20190721T183613.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 18:36:13",
+        "searchdate": "2019-07-21",
         "duration": 3019
     },
     "Game_20190721T183903.slp": {
         "players": [
             {
                 "character": 25,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 18:39:03",
+        "searchdate": "2019-07-21",
         "duration": 4660
     },
     "Game_20190721T184211.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 18:42:11",
+        "searchdate": "2019-07-21",
         "duration": 10651
     },
     "Game_20190721T184526.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 18:45:26",
+        "searchdate": "2019-07-21",
         "duration": 10191
     },
     "Game_20190721T185342.slp": {
         "players": [
             {
                 "character": 2,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null,
             {
                 "character": 20,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             }
         ],
         "stage": 31,
         "datetime": "07/21/2019, 18:53:42",
+        "searchdate": "2019-07-21",
         "duration": 11667
     },
     "Game_20190721T185709.slp": {
         "players": [
             {
                 "character": 2,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null,
             {
                 "character": 20,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             }
         ],
         "stage": 31,
         "datetime": "07/21/2019, 18:57:09",
+        "searchdate": "2019-07-21",
         "duration": 11965
     },
     "Game_20190721T190140.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 19:01:40",
+        "searchdate": "2019-07-21",
         "duration": 3314
     },
     "Game_20190721T190326.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null,
             null
         ],
         "stage": 2,
         "datetime": "07/21/2019, 19:03:26",
+        "searchdate": "2019-07-21",
         "duration": 9362
     },
     "Game_20190721T190619.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 19:06:19",
+        "searchdate": "2019-07-21",
         "duration": 10396
     },
     "Game_20190721T191229.slp": {
@@ -310,16 +364,19 @@
             null,
             {
                 "character": 12,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             {
                 "character": 2,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             }
         ],
         "stage": 31,
         "datetime": "07/21/2019, 19:12:29",
+        "searchdate": "2019-07-21",
         "duration": 4158
     },
     "Game_20190721T191353.slp": {
@@ -327,16 +384,19 @@
             null,
             {
                 "character": 12,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             {
                 "character": 2,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             }
         ],
         "stage": 28,
         "datetime": "07/21/2019, 19:13:53",
+        "searchdate": "2019-07-21",
         "duration": 12857
     },
     "Game_20190721T191759.slp": {
@@ -344,135 +404,159 @@
             null,
             {
                 "character": 12,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             {
                 "character": 2,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             }
         ],
         "stage": 2,
         "datetime": "07/21/2019, 19:17:59",
+        "searchdate": "2019-07-21",
         "duration": 10644
     },
     "Game_20190721T192953.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 19:29:53",
+        "searchdate": "2019-07-21",
         "duration": 5888
     },
     "Game_20190721T193158.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 2,
         "datetime": "07/21/2019, 19:31:58",
+        "searchdate": "2019-07-21",
         "duration": 4586
     },
     "Game_20190721T193338.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 28,
         "datetime": "07/21/2019, 19:33:38",
+        "searchdate": "2019-07-21",
         "duration": 13232
     },
     "Game_20190721T193742.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 19:37:42",
+        "searchdate": "2019-07-21",
         "duration": 5611
     },
     "Game_20190721T194001.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null,
             {
                 "character": 2,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             }
         ],
         "stage": 32,
         "datetime": "07/21/2019, 19:40:01",
+        "searchdate": "2019-07-21",
         "duration": 11458
     },
     "Game_20190721T194340.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null,
             {
                 "character": 2,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             }
         ],
         "stage": 28,
         "datetime": "07/21/2019, 19:43:40",
+        "searchdate": "2019-07-21",
         "duration": 11623
     },
     "Game_20190721T194711.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null,
             {
                 "character": 2,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             }
         ],
         "stage": 8,
         "datetime": "07/21/2019, 19:47:11",
+        "searchdate": "2019-07-21",
         "duration": 16727
     },
     "Game_20190721T195445.slp": {
@@ -480,16 +564,19 @@
             null,
             {
                 "character": 2,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 19:54:45",
+        "searchdate": "2019-07-21",
         "duration": 11364
     },
     "Game_20190721T195808.slp": {
@@ -497,16 +584,19 @@
             null,
             {
                 "character": 2,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null
         ],
         "stage": 28,
         "datetime": "07/21/2019, 19:58:08",
+        "searchdate": "2019-07-21",
         "duration": 12338
     },
     "Game_20190721T200151.slp": {
@@ -514,186 +604,219 @@
             null,
             {
                 "character": 2,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 2
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23"
             },
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 20:01:51",
+        "searchdate": "2019-07-21",
         "duration": 10801
     },
     "Game_20190721T201238.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 2,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 20:12:38",
+        "searchdate": "2019-07-21",
         "duration": 2196
     },
     "Game_20190721T201332.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             {
                 "character": 2,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 20:13:32",
+        "searchdate": "2019-07-21",
         "duration": 7387
     },
     "Game_20190721T201552.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             {
                 "character": 15,
-                "costume": 4
+                "costume": 4,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 2,
         "datetime": "07/21/2019, 20:15:52",
+        "searchdate": "2019-07-21",
         "duration": 11175
     },
     "Game_20190721T201913.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             {
                 "character": 0,
-                "costume": 4
+                "costume": 4,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 20:19:13",
+        "searchdate": "2019-07-21",
         "duration": 9463
     },
     "Game_20190721T202204.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             {
                 "character": 0,
-                "costume": 4
+                "costume": 4,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 3,
         "datetime": "07/21/2019, 20:22:04",
+        "searchdate": "2019-07-21",
         "duration": 11409
     },
     "Game_20190721T202531.slp": {
         "players": [
             {
                 "character": 20,
-                "costume": 2
+                "costume": 2,
+                "tag": ""
             },
             {
                 "character": 8,
-                "costume": 4
+                "costume": 4,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 28,
         "datetime": "07/21/2019, 20:25:31",
+        "searchdate": "2019-07-21",
         "duration": 10342
     },
     "Game_20190721T202840.slp": {
         "players": [
             {
                 "character": 8,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 2,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 32,
         "datetime": "07/21/2019, 20:28:40",
+        "searchdate": "2019-07-21",
         "duration": 11391
     },
     "Game_20190721T203213.slp": {
         "players": [
             {
                 "character": 9,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 0,
-                "costume": 4
+                "costume": 4,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 31,
         "datetime": "07/21/2019, 20:32:13",
+        "searchdate": "2019-07-21",
         "duration": 7335
     },
     "Game_20190721T203436.slp": {
         "players": [
             {
                 "character": 22,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 3,
-                "costume": 3
+                "costume": 3,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 8,
         "datetime": "07/21/2019, 20:34:36",
+        "searchdate": "2019-07-21",
         "duration": 5250
     },
     "Game_20190721T203622.slp": {
         "players": [
             {
                 "character": 12,
-                "costume": 0
+                "costume": 0,
+                "tag": ""
             },
             {
                 "character": 9,
-                "costume": 1
+                "costume": 1,
+                "tag": ""
             },
             null,
             null
         ],
         "stage": 2,
         "datetime": "07/21/2019, 20:36:22",
+        "searchdate": "2019-07-21",
         "duration": 10382
     }
 }
