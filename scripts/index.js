@@ -9,6 +9,7 @@ var vm = new Vue({
     methods: {
         //add new item on top of stack
         getAllFiles: function () {
+            console.log("test");
             $.getJSON('map.json').then((data) => {
                 this.files = data;
             });
