@@ -14,7 +14,7 @@
 
     <div id="container">
         <nav class="navbar navbar-default navbar-fixed-top headbar">
-            <h2 class="heading float-left">Wisconsin Slippi Archives</h2>
+            <h1 class="heading float-left">Wisconsin Slippi Archives</h1>
             <div class="float-right form-group">
                 <input class="form-control" type="date" />
             </div>
@@ -22,8 +22,7 @@
         <div class="container">
             <div class="row pt-2"></div>
             <div class="row pb-1" v-for="(game, path) in files">
-                <div class="col-sm-2"></div>
-                <div class="col-lg-8 slippi-box">
+                <div class="col-lg-10 slippi-box">
                     <div class="row">
                         <div class="col-sm-9 float-left">
                             <a v-bind:href="'replays/'+path">{{path}}</a>
@@ -39,7 +38,6 @@
                         <div class="col-lg-3"></div>
                     </div>
                 </div>
-                <div class="col-sm-2"></div>
             </div>
         </div>
     </div>
