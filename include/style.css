@@ -2,6 +2,19 @@
     font-family: Domine;
 }
 
+body {
+    font-family: Roboto;
+}
+
 .slippi-box {
-    
+    border-radius: 7px;
+    background-color: #1e1e1e;
+}
+
+body {
+    background-color: #121212;
+}
+
+.headbar {
+    background-color: #151515;
 }
