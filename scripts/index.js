@@ -3,6 +3,7 @@ var vm = new Vue({
     data: {
         files: [],
         stylesheet: "light-style.css",
+        searchdate: "",
     },
     mounted:function(){
         this.created();
