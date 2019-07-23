@@ -19,7 +19,7 @@ var vm = new Vue({
             // if user is searching for a tag, check all tags in players
             if(this.tag.length != 0) {
                 for(var i = 0; i < 4; i++){
-                    if(game['players'][i] != null && game['players'][i]['tag'].includes(this.tag.toUpperCase())){
+                    if(game['players'][i] != null && game['players'][i]['searchtag'].includes(this.tag.toUpperCase())){
                         return true;
                     }
                 }
