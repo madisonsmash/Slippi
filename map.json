@@ -4606,5 +4606,1831 @@
         "datetime": "08/18/2019, 14:36:44",
         "searchdate": "2019-08-18",
         "duration": 13957
+    },
+    "Game_20190818T111445.slp": {
+        "players": [
+            {
+                "character": 20,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 11:14:45",
+        "searchdate": "2019-08-18",
+        "duration": 11047
+    },
+    "Game_20190818T111830.slp": {
+        "players": [
+            {
+                "character": 20,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 14,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 11:18:30",
+        "searchdate": "2019-08-18",
+        "duration": 11517
+    },
+    "Game_20190818T112209.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 23,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 11:22:09",
+        "searchdate": "2019-08-18",
+        "duration": 5908
+    },
+    "Game_20190818T112511.slp": {
+        "players": [
+            {
+                "character": 17,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 8,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 11:25:11",
+        "searchdate": "2019-08-18",
+        "duration": 13617
+    },
+    "Game_20190818T112940.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 11:29:40",
+        "searchdate": "2019-08-18",
+        "duration": 8982
+    },
+    "Game_20190818T113229.slp": {
+        "players": [
+            {
+                "character": 20,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 11:32:29",
+        "searchdate": "2019-08-18",
+        "duration": 8332
+    },
+    "Game_20190818T113530.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 11:35:30",
+        "searchdate": "2019-08-18",
+        "duration": 7440
+    },
+    "Game_20190818T113950.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 11:39:50",
+        "searchdate": "2019-08-18",
+        "duration": 8678
+    },
+    "Game_20190818T114249.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 11:42:49",
+        "searchdate": "2019-08-18",
+        "duration": 10423
+    },
+    "Game_20190818T114701.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 11:47:01",
+        "searchdate": "2019-08-18",
+        "duration": 11980
+    },
+    "Game_20190818T115115.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 11:51:15",
+        "searchdate": "2019-08-18",
+        "duration": 5567
+    },
+    "Game_20190818T115411.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 11:54:11",
+        "searchdate": "2019-08-18",
+        "duration": 11058
+    },
+    "Game_20190818T115758.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 11:57:58",
+        "searchdate": "2019-08-18",
+        "duration": 13099
+    },
+    "Game_20190818T120205.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 12:02:05",
+        "searchdate": "2019-08-18",
+        "duration": 8325
+    },
+    "Game_20190818T120455.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 12:04:55",
+        "searchdate": "2019-08-18",
+        "duration": 9860
+    },
+    "Game_20190818T120804.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 12:08:04",
+        "searchdate": "2019-08-18",
+        "duration": 4669
+    },
+    "Game_20190818T120930.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 12:09:30",
+        "searchdate": "2019-08-18",
+        "duration": 9044
+    },
+    "Game_20190818T121507.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 12:15:07",
+        "searchdate": "2019-08-18",
+        "duration": 12045
+    },
+    "Game_20190818T121846.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 12:18:46",
+        "searchdate": "2019-08-18",
+        "duration": 3279
+    },
+    "Game_20190818T122036.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 12:20:36",
+        "searchdate": "2019-08-18",
+        "duration": 12659
+    },
+    "Game_20190818T122419.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 12:24:19",
+        "searchdate": "2019-08-18",
+        "duration": 10936
+    },
+    "Game_20190818T122739.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 12:27:39",
+        "searchdate": "2019-08-18",
+        "duration": 28924
+    },
+    "Game_20190818T131229.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "\uff2b\uff29\uff22\uff33",
+                "searchtag": "KIBS"
+            },
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 13:12:29",
+        "searchdate": "2019-08-18",
+        "duration": 2270
+    },
+    "Game_20190818T131348.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "\uff2b\uff29\uff22\uff33",
+                "searchtag": "KIBS"
+            },
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 13:13:48",
+        "searchdate": "2019-08-18",
+        "duration": 11608
+    },
+    "Game_20190818T131734.slp": {
+        "players": [
+            {
+                "character": 7,
+                "costume": 0,
+                "tag": "\uff2b\uff29\uff22\uff33",
+                "searchtag": "KIBS"
+            },
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 13:17:34",
+        "searchdate": "2019-08-18",
+        "duration": 12972
+    },
+    "Game_20190818T132647.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 13:26:47",
+        "searchdate": "2019-08-18",
+        "duration": 12092
+    },
+    "Game_20190818T133021.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 13:30:21",
+        "searchdate": "2019-08-18",
+        "duration": 9257
+    },
+    "Game_20190818T133627.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 13:36:27",
+        "searchdate": "2019-08-18",
+        "duration": 2130
+    },
+    "Game_20190818T133728.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 13:37:28",
+        "searchdate": "2019-08-18",
+        "duration": 12058
+    },
+    "Game_20190818T134105.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 1,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 13:41:05",
+        "searchdate": "2019-08-18",
+        "duration": 10254
+    },
+    "Game_20190818T140724.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 14:07:24",
+        "searchdate": "2019-08-18",
+        "duration": 2446
+    },
+    "Game_20190818T140922.slp": {
+        "players": [
+            null,
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:09:22",
+        "searchdate": "2019-08-18",
+        "duration": 13160
+    },
+    "Game_20190818T141319.slp": {
+        "players": [
+            null,
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:13:19",
+        "searchdate": "2019-08-18",
+        "duration": 12492
+    },
+    "Game_20190818T141702.slp": {
+        "players": [
+            null,
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "\uff12\uff30\uff21\uff23",
+                "searchtag": "2PAC"
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:17:02",
+        "searchdate": "2019-08-18",
+        "duration": 7904
+    },
+    "Game_20190818T142057.slp": {
+        "players": [
+            {
+                "character": 12,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:20:57",
+        "searchdate": "2019-08-18",
+        "duration": 2626
+    },
+    "Game_20190818T142353.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:23:53",
+        "searchdate": "2019-08-18",
+        "duration": 7489
+    },
+    "Game_20190818T142610.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:26:10",
+        "searchdate": "2019-08-18",
+        "duration": 10405
+    },
+    "Game_20190818T143106.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 14:31:06",
+        "searchdate": "2019-08-18",
+        "duration": 9096
+    },
+    "Game_20190818T143359.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 14:33:59",
+        "searchdate": "2019-08-18",
+        "duration": 7945
+    },
+    "Game_20190818T143624.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 18,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:36:24",
+        "searchdate": "2019-08-18",
+        "duration": 8998
+    },
+    "Game_20190818T143905.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 14:39:05",
+        "searchdate": "2019-08-18",
+        "duration": 8587
+    },
+    "Game_20190818T144140.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 19,
+                "costume": 4,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 14:41:40",
+        "searchdate": "2019-08-18",
+        "duration": 9885
+    },
+    "Game_20190818T144443.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 14:44:43",
+        "searchdate": "2019-08-18",
+        "duration": 8805
+    },
+    "Game_20190818T144722.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 14:47:22",
+        "searchdate": "2019-08-18",
+        "duration": 7499
+    },
+    "Game_20190818T144938.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 14:49:38",
+        "searchdate": "2019-08-18",
+        "duration": 4993
+    },
+    "Game_20190818T145114.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 14:51:14",
+        "searchdate": "2019-08-18",
+        "duration": 9461
+    },
+    "Game_20190818T145403.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 14:54:03",
+        "searchdate": "2019-08-18",
+        "duration": 8222
+    },
+    "Game_20190818T145634.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 14:56:34",
+        "searchdate": "2019-08-18",
+        "duration": 10437
+    },
+    "Game_20190818T145941.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 14:59:41",
+        "searchdate": "2019-08-18",
+        "duration": 11151
+    },
+    "Game_20190818T150302.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 20,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 15:03:02",
+        "searchdate": "2019-08-18",
+        "duration": 7184
+    },
+    "Game_20190818T150516.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 15:05:16",
+        "searchdate": "2019-08-18",
+        "duration": 10146
+    },
+    "Game_20190818T150817.slp": {
+        "players": [
+            null,
+            null,
+            {
+                "character": 0,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            }
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 15:08:17",
+        "searchdate": "2019-08-18",
+        "duration": 9442
+    },
+    "Game_20190818T151849.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 15:18:49",
+        "searchdate": "2019-08-18",
+        "duration": 23953
+    },
+    "Game_20190818T152545.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 15:25:45",
+        "searchdate": "2019-08-18",
+        "duration": 18979
+    },
+    "Game_20190818T153202.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 15:32:02",
+        "searchdate": "2019-08-18",
+        "duration": 199
+    },
+    "Game_20190818T153217.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 15:32:17",
+        "searchdate": "2019-08-18",
+        "duration": 9098
+    },
+    "Game_20190818T153501.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 15:35:01",
+        "searchdate": "2019-08-18",
+        "duration": 9796
+    },
+    "Game_20190818T153757.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 15:37:57",
+        "searchdate": "2019-08-18",
+        "duration": 6872
+    },
+    "Game_20190818T154009.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 15:40:09",
+        "searchdate": "2019-08-18",
+        "duration": 10132
+    },
+    "Game_20190818T154315.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 15:43:15",
+        "searchdate": "2019-08-18",
+        "duration": 14290
+    },
+    "Game_20190818T154726.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 15:47:26",
+        "searchdate": "2019-08-18",
+        "duration": 13076
+    },
+    "Game_20190818T155121.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 15:51:21",
+        "searchdate": "2019-08-18",
+        "duration": 7695
+    },
+    "Game_20190818T155343.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 15:53:43",
+        "searchdate": "2019-08-18",
+        "duration": 7834
+    },
+    "Game_20190818T155605.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 15:56:05",
+        "searchdate": "2019-08-18",
+        "duration": 4810
+    },
+    "Game_20190818T155743.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 15:57:43",
+        "searchdate": "2019-08-18",
+        "duration": 7586
+    },
+    "Game_20190818T160004.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 16:00:04",
+        "searchdate": "2019-08-18",
+        "duration": 10738
+    },
+    "Game_20190818T160320.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 16:03:20",
+        "searchdate": "2019-08-18",
+        "duration": 10075
+    },
+    "Game_20190818T160622.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 16:06:22",
+        "searchdate": "2019-08-18",
+        "duration": 12652
+    },
+    "Game_20190818T161004.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 2,
+                "costume": 3,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 16:10:04",
+        "searchdate": "2019-08-18",
+        "duration": 6924
+    },
+    "Game_20190818T161245.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 16:12:45",
+        "searchdate": "2019-08-18",
+        "duration": 7629
+    },
+    "Game_20190818T161501.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 16:15:01",
+        "searchdate": "2019-08-18",
+        "duration": 11239
+    },
+    "Game_20190818T161820.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 16:18:20",
+        "searchdate": "2019-08-18",
+        "duration": 6689
+    },
+    "Game_20190818T162024.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 16:20:24",
+        "searchdate": "2019-08-18",
+        "duration": 11972
+    },
+    "Game_20190818T162355.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 16:23:55",
+        "searchdate": "2019-08-18",
+        "duration": 11044
+    },
+    "Game_20190818T162711.slp": {
+        "players": [
+            {
+                "character": 0,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 16:27:11",
+        "searchdate": "2019-08-18",
+        "duration": 12284
+    },
+    "Game_20190818T163050.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 16:30:50",
+        "searchdate": "2019-08-18",
+        "duration": 10932
+    },
+    "Game_20190818T163405.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 32,
+        "datetime": "08/18/2019, 16:34:05",
+        "searchdate": "2019-08-18",
+        "duration": 7614
+    },
+    "Game_20190818T163624.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 16:36:24",
+        "searchdate": "2019-08-18",
+        "duration": 9937
+    },
+    "Game_20190818T163922.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 28,
+        "datetime": "08/18/2019, 16:39:22",
+        "searchdate": "2019-08-18",
+        "duration": 6425
+    },
+    "Game_20190818T164122.slp": {
+        "players": [
+            {
+                "character": 2,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 3,
+        "datetime": "08/18/2019, 16:41:22",
+        "searchdate": "2019-08-18",
+        "duration": 8958
+    },
+    "Game_20190818T164406.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 20,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 8,
+        "datetime": "08/18/2019, 16:44:06",
+        "searchdate": "2019-08-18",
+        "duration": 8147
+    },
+    "Game_20190818T164638.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 31,
+        "datetime": "08/18/2019, 16:46:38",
+        "searchdate": "2019-08-18",
+        "duration": 12126
+    },
+    "Game_20190818T165012.slp": {
+        "players": [
+            {
+                "character": 9,
+                "costume": 0,
+                "tag": "",
+                "searchtag": ""
+            },
+            null,
+            {
+                "character": 25,
+                "costume": 2,
+                "tag": "",
+                "searchtag": ""
+            },
+            null
+        ],
+        "stage": 2,
+        "datetime": "08/18/2019, 16:50:12",
+        "searchdate": "2019-08-18",
+        "duration": 8262
     }
 }
