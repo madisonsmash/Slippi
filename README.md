@@ -1,5 +1,5 @@
-# SlippiHost
-Webpage to host slippi files recorded at wisconsin smash events
+# Madison Slippi - Extension of andrew-bbq/SlippiHost
+Webpage to host slippi files recorded at Madison smash events, made to replicate Slippi.gg
 
 ## Adding replays
 To add replays, move your replay files into the replays folder and run include/py-scripts/replayerparser.py to add your files' data to the json map of the replays directory
