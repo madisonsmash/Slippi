@@ -1,6 +1,6 @@
 import json, re
 from os import listdir
-from os.path import isfile, join
+from os.path import isfile, join, isdir
 from datetime import datetime
 from slippi import Game
 
@@ -56,15 +56,23 @@ tagtranslator = {
 }
 
 #get list of files
-replays = [f for f in listdir("../../replays") if isfile(join("../../replays", f))]
+tournaments = [folder for folder in listdir("../../replays") if isdir(join("../../replays", folder))]
 
 #get existing data (so we don't redo any existing replays)
 with open('../../map.json', 'r') as file:
     map = json.load(file)
 
+#get existing tournament list (for main page - same as map but with only 3 replays)
+with open('../../main.json', 'r') as file:
+    main = json.load(file)
+
 #iterate for counting new replays
 newReplays = 0
 
+#iterate through each tournament folder
+for tournament in tournaments:
+
+'''
 #generate dictionary for each replay
 for replaypath in replays:
     #if replay doesn't already exist
@@ -99,3 +107,4 @@ with open('../../map.json', 'w+') as f:
     json.dump(map, f, indent=4)
 
 print("Successfully mapped "+str(newReplays)+" new replays.")
+'''
