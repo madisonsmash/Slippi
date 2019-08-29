@@ -71,7 +71,21 @@ newReplays = 0
 
 #iterate through each tournament folder
 for tournament in tournaments:
+    #convert tournament name into directory path from python script
+    foldername = "../../replays/" + tournament + "/"
 
+    #get list of replays in tournament directory
+    replays = [f for f in listdir(foldername) if isfile(join(foldername, f))]
+
+    #initiate iterable to count first three games to place in main json (for home display)
+    if tournament in main:
+        displaycount = len(main[tournament])
+    else:
+        displaycount = 0
+
+    #iterate through replays, create json objects and place in main and map
+    for replay in replays:
+        print(replay)
 '''
 #generate dictionary for each replay
 for replaypath in replays:
