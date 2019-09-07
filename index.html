@@ -2,6 +2,7 @@
 
 <head>
     <title>Wisconsin Slippi Replays</title>
+    <link rel="icon" href="images/icon.ico">
     <link rel="stylesheet" href="include/style.css">
     <link rel="stylesheet" href="include/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Domine|Roboto&display=swap" rel="stylesheet">
@@ -9,12 +10,37 @@
     <script src="include/jquery-3.4.1.min.js"></script>
     <script src="include/require.js"></script>
 </head>
-
-<body class="bg-dark text-light">
-    <div id="container">
-        <nav class="navbar navbar-default navbar-fixed-top headbar">
+<div id="container" class="robot">
+    <div id="home" v-if="displayhome">
+        <nav class="navbar navbar-default navbar-fixed-top bg-danger">
             <div class="col-sm-8">
-                <h1 class="heading float-left pt-2 pl-4">Wisconsin Slippi Archive</h1>
+                <h1 class="heading float-left pt-2 pl-4 text-white">UW Tourney Replays</h1>
+            </div>
+        </nav>
+
+        <body>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2>Tournaments</h2>
+                        <div v-for="(data, tournament) in main">
+                            <div class="tournament tournament-header">{{tournament}}</div>
+                            <div class="tournament tournament-midsection">
+                                <div v-for="data in main">
+                                    {{data}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </body>
+    </div>
+    <div id="tournament" v-if="!displayhome">
+        <nav class="navbar navbar-default navbar-fixed-top bg-danger">
+            <div class="col-sm-8">
+                <h1 class="heading float-left pt-2 pl-4 text-white">UW Tourney Replays</h1>
             </div>
             <div class="col-sm-2 pt-3 float-right form-group">
                 <input class="form-control" type="text" v-model="tag" placeholder="Search tags" />
@@ -23,33 +49,10 @@
                 <input class="form-control" type="date" v-model="searchdate" />
             </div>
         </nav>
-        <div class="container">
-            <div class="row pt-2"></div>
-            <div class="row pb-1 mb-2" v-for="(game, path) in files" v-if="pruneResults(game)">
-                <div class="col-lg-12 slippi-box pt-2">
-                    <div class="row">
-                        <div class="col-sm-9 float-left">
-                            <a v-bind:href="'replays/'+path">{{path}}</a>
-                        </div>
-                        <div class="col-sm-3 float-right text-right">
-                            {{game['datetime']}}
-                        </div>
-                    </div>
-                    <div class="row pt-2 pb-4">
-                        <div class="col-sm-4 text-left pl-4">
-                            <img v-bind:src="'images/stages/'+game['stage']+'.png'" height="80px" />
-                        </div>
-                        <div class="pt-4 col-sm-2 text-center" v-for="(player, index) in game['players']">
-                            <img v-if="player == null" src="images/null.png" height="28px" />
-                            <img v-else
-                                v-bind:src="'images/stockicons/'+player['character']+'-'+player['costume']+'.png'" />
-                            <div v-if='player == null || player["tag"].length == 0' class="pt-2 text-center">Port {{index + 1}}</div>
-                            <div v-else class="pt-2 text-center">{{player["tag"]}}</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+        <body>
+
+        </body>
     </div>
-</body>
+</div>
 <script src="scripts/index.js"></script>

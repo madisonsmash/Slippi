@@ -1,5 +1,5 @@
 .heading {
-    font-family: Domine;
+    font-family: sans-serif;
 }
 
 body {
@@ -14,4 +14,24 @@ body {
 
 .headbar {
     background-color: #151515;
+}
+
+.player-chiclet {
+    padding: 3px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.tournament-header {
+    font-size: 18px;
+    font-weight: 700;
+    border-width: 0 0 1px;
+}
+
+.robot {
+    font-family: Roboto, sans-serif;
+}
+
+.tournament {
+    background-color: lightgray;
 }

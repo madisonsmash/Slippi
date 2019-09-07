@@ -1,1 +1,138 @@
-{}
+{
+    "Between 2 Lakes #19": {
+        "Game_20190811T180232.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 6,
+                    "costume": 0,
+                    "tag": "",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "08/11/2019, 18:02:32",
+            "searchdate": "2019-08-11",
+            "duration": 1136
+        },
+        "Game_20190811T180329.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 1,
+                    "tag": "\uff2a\uff2d\uff34",
+                    "searchtag": "JMT"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff34\uff2d\uff2a\uff14",
+                    "searchtag": "TMJ4"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "08/11/2019, 18:03:29",
+            "searchdate": "2019-08-11",
+            "duration": 8173
+        },
+        "Game_20190811T180558.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 1,
+                    "tag": "\uff2a\uff2d\uff34",
+                    "searchtag": "JMT"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff34\uff2d\uff2a\uff14",
+                    "searchtag": "TMJ4"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "08/11/2019, 18:05:58",
+            "searchdate": "2019-08-11",
+            "duration": 11415
+        }
+    },
+    "Between 2 Lakes #20": {
+        "Game_20190825T123909.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff12\uff30\uff21\uff23",
+                    "searchtag": "2PAC"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff37\uff20\uff04",
+                    "searchtag": "W@$"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "08/25/2019, 12:39:09",
+            "searchdate": "2019-08-25",
+            "duration": 7041
+        },
+        "Game_20190825T124121.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff12\uff30\uff21\uff23",
+                    "searchtag": "2PAC"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff37\uff20\uff04",
+                    "searchtag": "W@$"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "08/25/2019, 12:41:21",
+            "searchdate": "2019-08-25",
+            "duration": 7584
+        },
+        "Game_20190825T124412.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff37\uff20\uff04",
+                    "searchtag": "W@$"
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "08/25/2019, 12:44:12",
+            "searchdate": "2019-08-25",
+            "duration": 12287
+        }
+    }
+}

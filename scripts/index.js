@@ -1,9 +1,11 @@
 var vm = new Vue({
     el: '#container',
     data: {
+        main: [],
         files: [],
         tag: "",
         searchdate: "",
+        displayhome: true,
     },
     mounted:function(){
         this.created();
@@ -29,8 +31,8 @@ var vm = new Vue({
             }
         },
         created: function () {
-            $.getJSON('map.json').then((data) => {
-                this.files = data;
+            $.getJSON('main.json').then((data) => {
+                this.main = data;
             });
         },
     },
