@@ -26,10 +26,12 @@
                         <div v-for="(data, tournament) in main">
                             <div class="tournament tournament-header">{{tournament}}</div>
                             <div class="tournament tournament-midsection">
+                                Latest Games
                                 <div v-for="data in main">
                                     {{data}}
                                 </div>
                             </div>
+                            <div class="tournament tournament-footer"><a>Browse all replays</a></div>
                         </div>
                     </div>
                 </div>
