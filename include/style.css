@@ -17,6 +17,7 @@ body {
 }
 
 .player-chiclet {
+    background-color: lightgrey;
     padding: 3px;
     border-radius: 5px;
     align-items: center;

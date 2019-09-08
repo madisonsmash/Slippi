@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-    <title>Wisconsin Slippi Replays</title>
+    <title>UW-Madison Slippi</title>
     <link rel="icon" href="images/icon.ico">
     <link rel="stylesheet" href="include/style.css">
     <link rel="stylesheet" href="include/bootstrap.min.css">
@@ -22,13 +22,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2>Tournaments</h2>
+                        <h2 class="mt-3">Tournaments</h2>
                         <div v-for="(data, tournament) in main">
                             <div class="tournament tournament-header">{{tournament}}</div>
                             <div class="tournament tournament-midsection">
                                 Latest Games
-                                <div v-for="data in main">
-                                    {{data}}
+                                <div v-for="game in main">
+                                    <div v-for="actualgame in game">
+                                        <span class="player-chiclet">{{actualgame['players'][0]['tag']}}</span> vs <span class="player-chiclet">{{actualgame['players'][1]['tag']}}</span>
+                                    </div>
                                 </div>
                             </div>
                             <div class="tournament tournament-footer"><a>Browse all replays</a></div>

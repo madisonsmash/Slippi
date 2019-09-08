@@ -123,6 +123,8 @@ for tournament in tournaments:
                     if len(port['searchtag']) is not 0:
                         for key, replacement in tagtranslator.items():
                             port['searchtag'] = port['searchtag'].replace(key, replacement)
+                    else:
+                        port['tag'] = "Player "+str(port['number'])
                     players.append(port)
                 portnumber += 1
             data['players'] = players
