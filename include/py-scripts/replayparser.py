@@ -78,6 +78,7 @@ with open('../../main.json', 'r') as file:
 
 #iterate for counting new replays
 newReplays = 0
+exceptedreplays = 0
 
 #iterate through each tournament folder
 for tournament in tournaments:
@@ -143,3 +144,4 @@ with open('../../main.json', 'w+') as f:
     json.dump(main, f, indent=4)
 
 print("Successfully mapped "+str(newReplays)+" new replays.")
+print(str(exceptedreplays) +" replays exited with exceptions.")
