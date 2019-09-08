@@ -31,7 +31,7 @@
                                     <span class="player-chiclet"><img v-bind:src="'images/stockicons/'+game['players'][0]['character']+'-'+game['players'][0]['costume']+'.png'"/>{{game['players'][0]['tag']}}</span> vs <span class="player-chiclet"><img v-bind:src="'images/stockicons/'+game['players'][1]['character']+'-'+game['players'][1]['costume']+'.png'"/>{{game['players'][1]['tag']}}</span>  |  {{game['stage']}}  |  {{game['datetime']}}
                                 </div>
                             </div>
-                            <div class="tournament tournament-footer"><a>Browse all replays</a></div>
+                            <div class="tournament tournament-footer"><a v-on:click="displayTournament(tournament)">Browse all replays</a></div>
                         </div>
                     </div>
                 </div>
@@ -46,9 +46,6 @@
             </div>
             <div class="col-sm-2 pt-3 float-right form-group">
                 <input class="form-control" type="text" v-model="tag" placeholder="Search tags" />
-            </div>
-            <div class="col-sm-2 pt-3 pr-3 float-right form-group">
-                <input class="form-control" type="date" v-model="searchdate" />
             </div>
         </nav>
 

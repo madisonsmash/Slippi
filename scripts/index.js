@@ -35,5 +35,13 @@ var vm = new Vue({
                 this.main = data;
             });
         },
+        displayTournament: function(name) {
+            this.displayhome = false;
+            var jsonpath = './replays/'+name+'/map.json';
+            $.getJSON(jsonpath).then((data) => {
+                this.files = data;
+            });
+            console.log(this.files);
+        },
     },
 });
