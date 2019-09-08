@@ -90,6 +90,7 @@ for tournament in tournaments:
 
     #get list of replays in tournament directory
     replays = [f for f in listdir(foldername) if isfile(join(foldername, f))]
+    replays.reverse()
 
     #initiate iterable to count first three games to place in main json (for home display)
     if tournament in main:
@@ -106,7 +107,7 @@ for tournament in tournaments:
     #iterate through replays, create json objects and place in main and map
     for replay in replays:
         #if replay doesn't already exist in tournament map
-        if not replay in map[tournament]:
+        if not replay in map[tournament] and not '.json' in replay:
             game = Game(foldername+replay)
             data = {}
             #generate list of players in game

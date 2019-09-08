@@ -27,10 +27,8 @@
                             <div class="tournament tournament-header">{{tournament}}</div>
                             <div class="tournament tournament-midsection">
                                 Latest Games
-                                <div v-for="game in main">
-                                    <div v-for="actualgame in game">
-                                        <span class="player-chiclet">{{actualgame['players'][0]['tag']}}</span> vs <span class="player-chiclet">{{actualgame['players'][1]['tag']}}</span>
-                                    </div>
+                                <div v-for="game in data">
+                                    <span class="player-chiclet"><img v-bind:src="'images/stockicons/'+game['players'][0]['character']+'-'+game['players'][0]['costume']+'.png'"/>{{game['players'][0]['tag']}}</span> vs <span class="player-chiclet"><img v-bind:src="'images/stockicons/'+game['players'][1]['character']+'-'+game['players'][1]['costume']+'.png'"/>{{game['players'][1]['tag']}}</span>  |  {{game['stage']}}  |  {{game['datetime']}}
                                 </div>
                             </div>
                             <div class="tournament tournament-footer"><a>Browse all replays</a></div>
