@@ -6,6 +6,7 @@ var vm = new Vue({
         tag: "",
         searchdate: "",
         displayhome: true,
+        tourneyname: "",
     },
     mounted:function(){
         this.created();
@@ -34,14 +35,13 @@ var vm = new Vue({
             $.getJSON('main.json').then((data) => {
                 this.main = data;
             });
+            $.getJSON('map.json').then((data) => {
+                this.files = data;
+            });
         },
         displayTournament: function(name) {
             this.displayhome = false;
-            var jsonpath = './replays/'+name+'/map.json';
-            $.getJSON(jsonpath).then((data) => {
-                this.files = data;
-            });
-            console.log(this.files);
+            this.tourneyname = name;
         },
     },
 });

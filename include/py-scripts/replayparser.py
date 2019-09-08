@@ -68,6 +68,10 @@ stagecodes = {
 #get list of files
 tournaments = [folder for folder in listdir("../../replays") if isdir(join("../../replays", folder))]
 
+#get existing tournament list for main
+with open('../../map.json', 'r') as file:
+    map = json.load(file)
+
 #get existing tournament list (for main page - same as map but with only 3 replays)
 with open('../../main.json', 'r') as file:
     main = json.load(file)
@@ -79,14 +83,6 @@ newReplays = 0
 for tournament in tournaments:
     #convert tournament name into directory path from python script
     foldername = "../../replays/" + tournament + "/"
-    mappath = "../../replays/"+tournament+"/map.json"
-
-    #get existing data (so we don't redo any existing replays)
-    if exists(mappath):
-        with open(mappath, 'r') as file:
-            map = json.load(file)
-    else:
-        map = {}
 
     #get list of replays in tournament directory
     replays = [f for f in listdir(foldername) if isfile(join(foldername, f))]
@@ -138,9 +134,9 @@ for tournament in tournaments:
                 main[tournament][replay] = data
             newReplays = newReplays + 1
 
-    #dump contents      
-    with open(mappath, 'w+') as f:
-        json.dump(map, f, indent=4)
+#dump contents
+with open('../../map.json', 'w+') as f:
+    json.dump(map, f, indent=4)
 
 #dump other contents
 with open('../../main.json', 'w+') as f:
