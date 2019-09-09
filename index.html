@@ -35,7 +35,7 @@
                                     | {{game['stage']}} | {{game['datetime']}}
                                 </div>
                             </div>
-                            <div class="tournament tournament-footer"><a
+                            <div class="tournament tournament-footer"><a class="hoverable"
                                     v-on:click="displayTournament(tournament)">Browse all replays</a></div>
                         </div>
                     </div>
@@ -65,12 +65,12 @@
                 </div>
                 <div class="row mt-3">
                     <div class="col-lg-12">
-                        <table align="center" class='table'>
+                        <table align="center" class='table' id="gameTable">
                             <tr>
                                 <th>Matchup</th>
-                                <th>Stage</th>
-                                <th>Station</th>
-                                <th>Time</th>
+                                <th class="hoverable" onclick="sortTable(1)">Stage</th>
+                                <th class="hoverable" onclick="sortTable(2)">Station</th>
+                                <th class="hoverable" onclick="sortTable(3)">Time</th>
                                 <th>Download Link</th>
                             </tr>
                             <tr v-for="(game, file) in files[tourneyname]" v-if="pruneResults(game)">
@@ -92,3 +92,4 @@
     </div>
 </div>
 <script src="scripts/index.js"></script>
+<script src="scripts/w3sort.js"></script>

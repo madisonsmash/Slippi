@@ -47,10 +47,6 @@ body {
     border-radius: 0 0 3px 3px;
 }
 
-a {
+.hoverable {
     cursor: pointer;
-}
-
-td {
-    padding: 20px 20px 20px 20px;
 }
