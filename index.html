@@ -60,7 +60,7 @@
                 </div>
                 <div class="row mt-3 text-center">
                     <div class="offset-lg-3 col-lg-6 text-center">
-                        <input class="form-control" placeholder="Search tags" />
+                        <input v-model="tag" class="form-control" placeholder="Search tags" />
                     </div>
                 </div>
                 <div class="row mt-3">
@@ -73,7 +73,7 @@
                                 <th>Time</th>
                                 <th>Download Link</th>
                             </tr>
-                            <tr v-for="(game, file) in files[tourneyname]">
+                            <tr v-for="(game, file) in files[tourneyname]" v-if="pruneResults(game)">
                                 <td><span class="player-chiclet"><img
                                             v-bind:src="'images/stockicons/'+game['players'][0]['character']+'-'+game['players'][0]['costume']+'.png'" />{{game['players'][0]['tag']}}</span>
                                     vs <span class="player-chiclet"><img

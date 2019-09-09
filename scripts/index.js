@@ -13,12 +13,6 @@ var vm = new Vue({
     },
     methods: {
         pruneResults: function (game){
-            if(this.searchdate.length != 0) {
-                // if date doesn't match, don't display
-                if(!this.searchdate.includes(game['searchdate'])){
-                    return false;
-                }
-            }
             // if user is searching for a tag, check all tags in players
             if(this.tag.length != 0) {
                 for(var i = 0; i < 4; i++){
