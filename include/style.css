@@ -50,3 +50,7 @@ body {
 a {
     cursor: pointer;
 }
+
+td {
+    padding: 20px 20px 20px 20px;
+}

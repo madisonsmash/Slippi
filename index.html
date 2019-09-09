@@ -49,34 +49,43 @@
             <div class="col-sm-8">
                 <h1 class="heading float-left pt-2 pl-4 text-white">UW Tourney Replays</h1>
             </div>
-            <div class="col-sm-2 pt-3 float-right form-group">
-                <input class="form-control" type="text" v-model="tag" placeholder="Search tags" />
-            </div>
         </nav>
 
         <body>
-            <div class="row">
-                <div class="col-lg-12">
-                    <table>
-                        <tr>
-                            <th>Matchup</th>
-                            <th>Stage</th>
-                            <th>Station</th>
-                            <th>Time</th>
-                            <th>Download Link</th>
-                        </tr>
-                        <tr v-for="(game, file) in files[tourneyname]">
-                            <td><span class="player-chiclet"><img
-                                        v-bind:src="'images/stockicons/'+game['players'][0]['character']+'-'+game['players'][0]['costume']+'.png'" />{{game['players'][0]['tag']}}</span>
-                                vs <span class="player-chiclet"><img
-                                        v-bind:src="'images/stockicons/'+game['players'][1]['character']+'-'+game['players'][1]['costume']+'.png'" />{{game['players'][1]['tag']}}</span>
-                            </td>
-                            <td>{{game['stage']}}</td>
-                            <td>[not implemented]</td>
-                            <td>{{game['datetime']}}</td>
-                            <td><a v-bind:href="'replays/'+tourneyname+'/'+file" download>{{file}}</a></td>
-                        </tr> 
-                    </table>
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="col-lg-12">
+                        <h2>Games</h2>
+                    </div>
+                </div>
+                <div class="row mt-3 text-center">
+                    <div class="offset-lg-3 col-lg-6 text-center">
+                        <input class="form-control" placeholder="Search tags" />
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-lg-12">
+                        <table align="center" class='table'>
+                            <tr>
+                                <th>Matchup</th>
+                                <th>Stage</th>
+                                <th>Station</th>
+                                <th>Time</th>
+                                <th>Download Link</th>
+                            </tr>
+                            <tr v-for="(game, file) in files[tourneyname]">
+                                <td><span class="player-chiclet"><img
+                                            v-bind:src="'images/stockicons/'+game['players'][0]['character']+'-'+game['players'][0]['costume']+'.png'" />{{game['players'][0]['tag']}}</span>
+                                    vs <span class="player-chiclet"><img
+                                            v-bind:src="'images/stockicons/'+game['players'][1]['character']+'-'+game['players'][1]['costume']+'.png'" />{{game['players'][1]['tag']}}</span>
+                                </td>
+                                <td>{{game['stage']}}</td>
+                                <td>[not implemented]</td>
+                                <td>{{game['datetime']}}</td>
+                                <td><a v-bind:href="'replays/'+tourneyname+'/'+file" download>{{file}}</a></td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
             </div>
         </body>

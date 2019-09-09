@@ -34,6 +34,7 @@ var vm = new Vue({
         created: function () {
             $.getJSON('main.json').then((data) => {
                 this.main = data;
+                console.log(this.main);
             });
             $.getJSON('map.json').then((data) => {
                 this.files = data;
