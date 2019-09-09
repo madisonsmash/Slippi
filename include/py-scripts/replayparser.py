@@ -103,6 +103,7 @@ for tournament in tournaments:
 
     #iterate through replays, create json objects and place in main and map
     for replay in replays:
+        print(replay)
         #if replay doesn't already exist in tournament map
         if not replay in map[tournament] and not '.json' in replay:
             game = Game(foldername+replay)
@@ -126,7 +127,10 @@ for tournament in tournaments:
                     players.append(port)
                 portnumber += 1
             data['players'] = players
-            data['stage'] = stagecodes[game.start.stage]
+            try:
+                data['stage'] = stagecodes[game.start.stage]
+            except:
+                continue
             data['datetime'] = game.metadata.date.strftime("%m/%d/%Y, %H:%M:%S")
             data['searchdate'] = game.metadata.date.strftime("%Y-%m-%d")
             data['duration'] = game.metadata.duration

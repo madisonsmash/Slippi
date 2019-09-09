@@ -74,8 +74,8 @@
                             <td>{{game['stage']}}</td>
                             <td>[not implemented]</td>
                             <td>{{game['datetime']}}</td>
-                            <td><a v-bind:href="'replays/'+tourneyname+'/'+file">{{file}}</a></td>
-                        </tr>
+                            <td><a v-bind:href="'replays/'+tourneyname+'/'+file" download>{{file}}</a></td>
+                        </tr> 
                     </table>
                 </div>
             </div>
