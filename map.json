@@ -8260,6 +8260,282 @@
             "searchdate": "2008-09-05",
             "duration": 9569,
             "dllink": "../../replays/Between 2 Lakes #21/Game_20080905T064516.slp"
+        },
+        "Game_20190908T175457.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 22,
+                    "costume": 2,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 3,
+                    "costume": 0,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": 24,
+            "datetime": "09/08/2019, 17:54:57",
+            "searchdate": "2019-09-08",
+            "duration": 10734,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T175457.slp"
+        },
+        "Game_20190908T175302.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 3,
+                    "costume": 0,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": 24,
+            "datetime": "09/08/2019, 17:53:02",
+            "searchdate": "2019-09-08",
+            "duration": 5653,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T175302.slp"
+        },
+        "Game_20190908T175021.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": 24,
+            "datetime": "09/08/2019, 17:50:21",
+            "searchdate": "2019-09-08",
+            "duration": 6968,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T175021.slp"
+        },
+        "Game_20190908T174731.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": 24,
+            "datetime": "09/08/2019, 17:47:31",
+            "searchdate": "2019-09-08",
+            "duration": 9115,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T174731.slp"
+        },
+        "Game_20190908T174233.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/08/2019, 17:42:33",
+            "searchdate": "2019-09-08",
+            "duration": 13098,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T174233.slp"
+        },
+        "Game_20190908T173906.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/08/2019, 17:39:06",
+            "searchdate": "2019-09-08",
+            "duration": 11206,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T173906.slp"
+        },
+        "Game_20190908T173855.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 18,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/08/2019, 17:38:55",
+            "searchdate": "2019-09-08",
+            "duration": 143,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T173855.slp"
+        },
+        "Game_20190908T173500.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/08/2019, 17:35:00",
+            "searchdate": "2019-09-08",
+            "duration": 12457,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T173500.slp"
+        },
+        "Game_20190908T173149.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/08/2019, 17:31:49",
+            "searchdate": "2019-09-08",
+            "duration": 10258,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T173149.slp"
+        },
+        "Game_20190908T172844.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/08/2019, 17:28:44",
+            "searchdate": "2019-09-08",
+            "duration": 9808,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T172844.slp"
+        },
+        "Game_20190908T172326.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff33\uff29\uff2b\uff28",
+                    "searchtag": "SIKH"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/08/2019, 17:23:26",
+            "searchdate": "2019-09-08",
+            "duration": 14922,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T172326.slp"
+        },
+        "Game_20190908T171946.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff33\uff29\uff2b\uff28",
+                    "searchtag": "SIKH"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/08/2019, 17:19:46",
+            "searchdate": "2019-09-08",
+            "duration": 12186,
+            "dllink": "../../replays/Between 2 Lakes #21/Game_20190908T171946.slp"
         }
     }
 }
