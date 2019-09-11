@@ -130,10 +130,11 @@ for tournament in tournaments:
             try:
                 data['stage'] = stagecodes[game.start.stage]
             except:
-                continue
+                data['stage'] = game.start.stage
             data['datetime'] = game.metadata.date.strftime("%m/%d/%Y, %H:%M:%S")
             data['searchdate'] = game.metadata.date.strftime("%Y-%m-%d")
             data['duration'] = game.metadata.duration
+            data['dllink'] = foldername+replay
             map[tournament][replay] = data
             if not replay in main[tournament] and len(main[tournament]) < 3:
                 main[tournament][replay] = data
