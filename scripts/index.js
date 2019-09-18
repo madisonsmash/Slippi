@@ -38,5 +38,9 @@ var vm = new Vue({
             this.displayhome = false;
             this.tourneyname = name;
         },
+        returnHome: function() {
+            this.displayhome = true;
+            this.tourneyname = "";
+        },
     },
 });
