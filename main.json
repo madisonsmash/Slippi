@@ -202,5 +202,76 @@
             "searchdate": "2019-09-08",
             "duration": 8192
         }
+    },
+    "Between 2 Lakes #22": {
+        "Game_20190922T174543.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:45:43",
+            "searchdate": "2019-09-22",
+            "duration": 1877,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174543.slp"
+        },
+        "Game_20190922T173550.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:35:50",
+            "searchdate": "2019-09-22",
+            "duration": 2782,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173550.slp"
+        },
+        "Game_20190922T172709.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:27:09",
+            "searchdate": "2019-09-22",
+            "duration": 1902,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T172709.slp"
+        }
     }
 }
