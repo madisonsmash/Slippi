@@ -12534,6 +12534,5480 @@
             "searchdate": "2019-09-22",
             "duration": 150,
             "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T123429.slp"
+        },
+        "Game_20190922T181144.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 18:11:44",
+            "searchdate": "2019-09-22",
+            "duration": 11726,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T181144.slp"
+        },
+        "Game_20190922T181115.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 18:11:15",
+            "searchdate": "2019-09-22",
+            "duration": 12265,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T181115.slp"
+        },
+        "Game_20190922T180815.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 18:08:15",
+            "searchdate": "2019-09-22",
+            "duration": 10001,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180815.slp"
+        },
+        "Game_20190922T180758.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 18:07:58",
+            "searchdate": "2019-09-22",
+            "duration": 12668,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180758.slp"
+        },
+        "Game_20190922T180618.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 18:06:18",
+            "searchdate": "2019-09-22",
+            "duration": 6258,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180618.slp"
+        },
+        "Game_20190922T180459.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 18:04:59",
+            "searchdate": "2019-09-22",
+            "duration": 9999,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180459.slp"
+        },
+        "Game_20190922T180443.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 18:04:43",
+            "searchdate": "2019-09-22",
+            "duration": 10226,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180443.slp"
+        },
+        "Game_20190922T180343.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 18:03:43",
+            "searchdate": "2019-09-22",
+            "duration": 8561,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180343.slp"
+        },
+        "Game_20190922T180149.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 18:01:49",
+            "searchdate": "2019-09-22",
+            "duration": 10330,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180149.slp"
+        },
+        "Game_20190922T180147.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 18:01:47",
+            "searchdate": "2019-09-22",
+            "duration": 9755,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180147.slp"
+        },
+        "Game_20190922T180050.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 18:00:50",
+            "searchdate": "2019-09-22",
+            "duration": 9499,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T180050.slp"
+        },
+        "Game_20190922T175906.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:59:06",
+            "searchdate": "2019-09-22",
+            "duration": 8825,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175906.slp"
+        },
+        "Game_20190922T175905.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:59:05",
+            "searchdate": "2019-09-22",
+            "duration": 8919,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175905.slp"
+        },
+        "Game_20190922T175753.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:57:53",
+            "searchdate": "2019-09-22",
+            "duration": 9920,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175753.slp"
+        },
+        "Game_20190922T175711.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:57:11",
+            "searchdate": "2019-09-22",
+            "duration": 6237,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175711.slp"
+        },
+        "Game_20190922T175533.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:55:33",
+            "searchdate": "2019-09-22",
+            "duration": 11958,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175533.slp"
+        },
+        "Game_20190922T175433.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:54:33",
+            "searchdate": "2019-09-22",
+            "duration": 10988,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175433.slp"
+        },
+        "Game_20190922T175247.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:52:47",
+            "searchdate": "2019-09-22",
+            "duration": 5162,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175247.slp"
+        },
+        "Game_20190922T175219.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:52:19",
+            "searchdate": "2019-09-22",
+            "duration": 10811,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175219.slp"
+        },
+        "Game_20190922T175120.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:51:20",
+            "searchdate": "2019-09-22",
+            "duration": 10746,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175120.slp"
+        },
+        "Game_20190922T175012.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:50:12",
+            "searchdate": "2019-09-22",
+            "duration": 8402,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T175012.slp"
+        },
+        "Game_20190922T174926.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:49:26",
+            "searchdate": "2019-09-22",
+            "duration": 9673,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174926.slp"
+        },
+        "Game_20190922T174847.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:48:47",
+            "searchdate": "2019-09-22",
+            "duration": 8434,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174847.slp"
+        },
+        "Game_20190922T174730.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:47:30",
+            "searchdate": "2019-09-22",
+            "duration": 8559,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174730.slp"
+        },
+        "Game_20190922T174627.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:46:27",
+            "searchdate": "2019-09-22",
+            "duration": 6743,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174627.slp"
+        },
+        "Game_20190922T174618.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:46:18",
+            "searchdate": "2019-09-22",
+            "duration": 10442,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174618.slp"
+        },
+        "Game_20190922T174426.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:44:26",
+            "searchdate": "2019-09-22",
+            "duration": 10056,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174426.slp"
+        },
+        "Game_20190922T174252.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:42:52",
+            "searchdate": "2019-09-22",
+            "duration": 11601,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174252.slp"
+        },
+        "Game_20190922T174225.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:42:25",
+            "searchdate": "2019-09-22",
+            "duration": 6196,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174225.slp"
+        },
+        "Game_20190922T174057.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 23,
+                    "costume": 1,
+                    "tag": "\uff15\uff10\uff10",
+                    "searchtag": "500"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:40:57",
+            "searchdate": "2019-09-22",
+            "duration": 13648,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174057.slp"
+        },
+        "Game_20190922T174029.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:40:29",
+            "searchdate": "2019-09-22",
+            "duration": 7765,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174029.slp"
+        },
+        "Game_20190922T174018.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:40:18",
+            "searchdate": "2019-09-22",
+            "duration": 6891,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T174018.slp"
+        },
+        "Game_20190922T173724.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 23,
+                    "costume": 1,
+                    "tag": "\uff15\uff10\uff10",
+                    "searchtag": "500"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:37:24",
+            "searchdate": "2019-09-22",
+            "duration": 10859,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173724.slp"
+        },
+        "Game_20190922T173707.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:37:07",
+            "searchdate": "2019-09-22",
+            "duration": 10015,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173707.slp"
+        },
+        "Game_20190922T173649.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:36:49",
+            "searchdate": "2019-09-22",
+            "duration": 12542,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173649.slp"
+        },
+        "Game_20190922T173402.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 23,
+                    "costume": 1,
+                    "tag": "\uff15\uff10\uff10",
+                    "searchtag": "500"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:34:02",
+            "searchdate": "2019-09-22",
+            "duration": 11010,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173402.slp"
+        },
+        "Game_20190922T173352.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:33:52",
+            "searchdate": "2019-09-22",
+            "duration": 9490,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173352.slp"
+        },
+        "Game_20190922T173255.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:32:55",
+            "searchdate": "2019-09-22",
+            "duration": 9732,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173255.slp"
+        },
+        "Game_20190922T173107.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:31:07",
+            "searchdate": "2019-09-22",
+            "duration": 9081,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173107.slp"
+        },
+        "Game_20190922T173021.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:30:21",
+            "searchdate": "2019-09-22",
+            "duration": 11730,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T173021.slp"
+        },
+        "Game_20190922T172814.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:28:14",
+            "searchdate": "2019-09-22",
+            "duration": 9238,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T172814.slp"
+        },
+        "Game_20190922T172702.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:27:02",
+            "searchdate": "2019-09-22",
+            "duration": 11184,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T172702.slp"
+        },
+        "Game_20190922T172400.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:24:00",
+            "searchdate": "2019-09-22",
+            "duration": 10039,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T172400.slp"
+        },
+        "Game_20190922T172208.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 17:22:08",
+            "searchdate": "2019-09-22",
+            "duration": 5744,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T172208.slp"
+        },
+        "Game_20190922T171934.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:19:34",
+            "searchdate": "2019-09-22",
+            "duration": 8062,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171934.slp"
+        },
+        "Game_20190922T171733.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:17:33",
+            "searchdate": "2019-09-22",
+            "duration": 6221,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171733.slp"
+        },
+        "Game_20190922T171506.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:15:06",
+            "searchdate": "2019-09-22",
+            "duration": 8038,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171506.slp"
+        },
+        "Game_20190922T171429.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:14:29",
+            "searchdate": "2019-09-22",
+            "duration": 8748,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171429.slp"
+        },
+        "Game_20190922T171242.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:12:42",
+            "searchdate": "2019-09-22",
+            "duration": 8719,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171242.slp"
+        },
+        "Game_20190922T171154.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 17:11:54",
+            "searchdate": "2019-09-22",
+            "duration": 8697,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171154.slp"
+        },
+        "Game_20190922T171030.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:10:30",
+            "searchdate": "2019-09-22",
+            "duration": 13362,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T171030.slp"
+        },
+        "Game_20190922T170956.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:09:56",
+            "searchdate": "2019-09-22",
+            "duration": 6350,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170956.slp"
+        },
+        "Game_20190922T170939.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:09:39",
+            "searchdate": "2019-09-22",
+            "duration": 10050,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170939.slp"
+        },
+        "Game_20190922T170643.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:06:43",
+            "searchdate": "2019-09-22",
+            "duration": 8920,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170643.slp"
+        },
+        "Game_20190922T170638.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:06:38",
+            "searchdate": "2019-09-22",
+            "duration": 12641,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170638.slp"
+        },
+        "Game_20190922T170324.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:03:24",
+            "searchdate": "2019-09-22",
+            "duration": 10741,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170324.slp"
+        },
+        "Game_20190922T170301.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:03:01",
+            "searchdate": "2019-09-22",
+            "duration": 15354,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170301.slp"
+        },
+        "Game_20190922T170214.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 17:02:14",
+            "searchdate": "2019-09-22",
+            "duration": 13430,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170214.slp"
+        },
+        "Game_20190922T170103.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 17:01:03",
+            "searchdate": "2019-09-22",
+            "duration": 16397,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170103.slp"
+        },
+        "Game_20190922T170028.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 17:00:28",
+            "searchdate": "2019-09-22",
+            "duration": 7387,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170028.slp"
+        },
+        "Game_20190922T170005.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 17:00:05",
+            "searchdate": "2019-09-22",
+            "duration": 9766,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T170005.slp"
+        },
+        "Game_20190922T165858.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:58:58",
+            "searchdate": "2019-09-22",
+            "duration": 10861,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165858.slp"
+        },
+        "Game_20190922T165752.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:57:52",
+            "searchdate": "2019-09-22",
+            "duration": 6914,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165752.slp"
+        },
+        "Game_20190922T165741.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:57:41",
+            "searchdate": "2019-09-22",
+            "duration": 9170,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165741.slp"
+        },
+        "Game_20190922T165631.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:56:31",
+            "searchdate": "2019-09-22",
+            "duration": 8055,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165631.slp"
+        },
+        "Game_20190922T165444.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:54:44",
+            "searchdate": "2019-09-22",
+            "duration": 5790,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165444.slp"
+        },
+        "Game_20190922T165427.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:54:27",
+            "searchdate": "2019-09-22",
+            "duration": 10842,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165427.slp"
+        },
+        "Game_20190922T165422.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:54:22",
+            "searchdate": "2019-09-22",
+            "duration": 13985,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165422.slp"
+        },
+        "Game_20190922T165213.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:52:13",
+            "searchdate": "2019-09-22",
+            "duration": 7217,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165213.slp"
+        },
+        "Game_20190922T165150.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:51:50",
+            "searchdate": "2019-09-22",
+            "duration": 8107,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165150.slp"
+        },
+        "Game_20190922T165137.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:51:37",
+            "searchdate": "2019-09-22",
+            "duration": 9772,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165137.slp"
+        },
+        "Game_20190922T165034.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:50:34",
+            "searchdate": "2019-09-22",
+            "duration": 12112,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T165034.slp"
+        },
+        "Game_20190922T164959.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:49:59",
+            "searchdate": "2019-09-22",
+            "duration": 5183,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164959.slp"
+        },
+        "Game_20190922T164909.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:49:09",
+            "searchdate": "2019-09-22",
+            "duration": 10062,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164909.slp"
+        },
+        "Game_20190922T164837.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:48:37",
+            "searchdate": "2019-09-22",
+            "duration": 10719,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164837.slp"
+        },
+        "Game_20190922T164727.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:47:27",
+            "searchdate": "2019-09-22",
+            "duration": 11877,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164727.slp"
+        },
+        "Game_20190922T164541.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:45:41",
+            "searchdate": "2019-09-22",
+            "duration": 9785,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164541.slp"
+        },
+        "Game_20190922T164537.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:45:37",
+            "searchdate": "2019-09-22",
+            "duration": 11908,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164537.slp"
+        },
+        "Game_20190922T164300.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:43:00",
+            "searchdate": "2019-09-22",
+            "duration": 15244,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164300.slp"
+        },
+        "Game_20190922T164253.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:42:53",
+            "searchdate": "2019-09-22",
+            "duration": 9216,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164253.slp"
+        },
+        "Game_20190922T164251.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:42:51",
+            "searchdate": "2019-09-22",
+            "duration": 8898,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164251.slp"
+        },
+        "Game_20190922T164011.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:40:11",
+            "searchdate": "2019-09-22",
+            "duration": 10652,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T164011.slp"
+        },
+        "Game_20190922T163934.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:39:34",
+            "searchdate": "2019-09-22",
+            "duration": 11616,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163934.slp"
+        },
+        "Game_20190922T163932.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:39:32",
+            "searchdate": "2019-09-22",
+            "duration": 8000,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163932.slp"
+        },
+        "Game_20190922T163929.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:39:29",
+            "searchdate": "2019-09-22",
+            "duration": 11474,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163929.slp"
+        },
+        "Game_20190922T163810.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:38:10",
+            "searchdate": "2019-09-22",
+            "duration": 10114,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163810.slp"
+        },
+        "Game_20190922T163628.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:36:28",
+            "searchdate": "2019-09-22",
+            "duration": 8572,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163628.slp"
+        },
+        "Game_20190922T163625.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:36:25",
+            "searchdate": "2019-09-22",
+            "duration": 10599,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163625.slp"
+        },
+        "Game_20190922T163623.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:36:23",
+            "searchdate": "2019-09-22",
+            "duration": 10380,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163623.slp"
+        },
+        "Game_20190922T163536.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:35:36",
+            "searchdate": "2019-09-22",
+            "duration": 14586,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163536.slp"
+        },
+        "Game_20190922T163443.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:34:43",
+            "searchdate": "2019-09-22",
+            "duration": 5601,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163443.slp"
+        },
+        "Game_20190922T163409.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:34:09",
+            "searchdate": "2019-09-22",
+            "duration": 12446,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163409.slp"
+        },
+        "Game_20190922T163351.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:33:51",
+            "searchdate": "2019-09-22",
+            "duration": 8433,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163351.slp"
+        },
+        "Game_20190922T163238.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:32:38",
+            "searchdate": "2019-09-22",
+            "duration": 12715,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163238.slp"
+        },
+        "Game_20190922T163116.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:31:16",
+            "searchdate": "2019-09-22",
+            "duration": 15019,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T163116.slp"
+        },
+        "Game_20190922T162943.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:29:43",
+            "searchdate": "2019-09-22",
+            "duration": 9763,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162943.slp"
+        },
+        "Game_20190922T162727.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:27:27",
+            "searchdate": "2019-09-22",
+            "duration": 4607,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162727.slp"
+        },
+        "Game_20190922T162647.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:26:47",
+            "searchdate": "2019-09-22",
+            "duration": 8625,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162647.slp"
+        },
+        "Game_20190922T162614.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:26:14",
+            "searchdate": "2019-09-22",
+            "duration": 10684,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162614.slp"
+        },
+        "Game_20190922T162604.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "\uff26\uff32\uff2e\uff3a",
+                    "searchtag": "FRNZ"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:26:04",
+            "searchdate": "2019-09-22",
+            "duration": 18406,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162604.slp"
+        },
+        "Game_20190922T162500.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:25:00",
+            "searchdate": "2019-09-22",
+            "duration": 12838,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162500.slp"
+        },
+        "Game_20190922T162329.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:23:29",
+            "searchdate": "2019-09-22",
+            "duration": 10937,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162329.slp"
+        },
+        "Game_20190922T162223.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:22:23",
+            "searchdate": "2019-09-22",
+            "duration": 12698,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162223.slp"
+        },
+        "Game_20190922T162144.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:21:44",
+            "searchdate": "2019-09-22",
+            "duration": 8938,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162144.slp"
+        },
+        "Game_20190922T162142.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:21:42",
+            "searchdate": "2019-09-22",
+            "duration": 10772,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162142.slp"
+        },
+        "Game_20190922T162105.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "\uff26\uff32\uff2e\uff3a",
+                    "searchtag": "FRNZ"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:21:05",
+            "searchdate": "2019-09-22",
+            "duration": 16089,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162105.slp"
+        },
+        "Game_20190922T162010.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:20:10",
+            "searchdate": "2019-09-22",
+            "duration": 11104,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T162010.slp"
+        },
+        "Game_20190922T161953.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:19:53",
+            "searchdate": "2019-09-22",
+            "duration": 8391,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161953.slp"
+        },
+        "Game_20190922T161858.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:18:58",
+            "searchdate": "2019-09-22",
+            "duration": 9182,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161858.slp"
+        },
+        "Game_20190922T161808.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:18:08",
+            "searchdate": "2019-09-22",
+            "duration": 7220,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161808.slp"
+        },
+        "Game_20190922T161714.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "\uff26\uff32\uff2e\uff3a",
+                    "searchtag": "FRNZ"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:17:14",
+            "searchdate": "2019-09-22",
+            "duration": 12770,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161714.slp"
+        },
+        "Game_20190922T161650.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:16:50",
+            "searchdate": "2019-09-22",
+            "duration": 6338,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161650.slp"
+        },
+        "Game_20190922T161548.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:15:48",
+            "searchdate": "2019-09-22",
+            "duration": 7488,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161548.slp"
+        },
+        "Game_20190922T161357.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:13:57",
+            "searchdate": "2019-09-22",
+            "duration": 9193,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161357.slp"
+        },
+        "Game_20190922T161301.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:13:01",
+            "searchdate": "2019-09-22",
+            "duration": 9224,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161301.slp"
+        },
+        "Game_20190922T161244.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:12:44",
+            "searchdate": "2019-09-22",
+            "duration": 9789,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161244.slp"
+        },
+        "Game_20190922T161220.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:12:20",
+            "searchdate": "2019-09-22",
+            "duration": 12758,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161220.slp"
+        },
+        "Game_20190922T161107.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:11:07",
+            "searchdate": "2019-09-22",
+            "duration": 10889,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161107.slp"
+        },
+        "Game_20190922T161018.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 16:10:18",
+            "searchdate": "2019-09-22",
+            "duration": 9177,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T161018.slp"
+        },
+        "Game_20190922T160913.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:09:13",
+            "searchdate": "2019-09-22",
+            "duration": 8291,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160913.slp"
+        },
+        "Game_20190922T160907.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:09:07",
+            "searchdate": "2019-09-22",
+            "duration": 10014,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160907.slp"
+        },
+        "Game_20190922T160732.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:07:32",
+            "searchdate": "2019-09-22",
+            "duration": 8829,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160732.slp"
+        },
+        "Game_20190922T160713.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:07:13",
+            "searchdate": "2019-09-22",
+            "duration": 10828,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160713.slp"
+        },
+        "Game_20190922T160708.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 7,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:07:08",
+            "searchdate": "2019-09-22",
+            "duration": 12988,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160708.slp"
+        },
+        "Game_20190922T160630.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:06:30",
+            "searchdate": "2019-09-22",
+            "duration": 7992,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160630.slp"
+        },
+        "Game_20190922T160408.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:04:08",
+            "searchdate": "2019-09-22",
+            "duration": 11427,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160408.slp"
+        },
+        "Game_20190922T160245.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 16:02:45",
+            "searchdate": "2019-09-22",
+            "duration": 14270,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160245.slp"
+        },
+        "Game_20190922T160233.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 16:02:33",
+            "searchdate": "2019-09-22",
+            "duration": 15963,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160233.slp"
+        },
+        "Game_20190922T160216.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "\uff26\uff32\uff2e\uff3a",
+                    "searchtag": "FRNZ"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:02:16",
+            "searchdate": "2019-09-22",
+            "duration": 13491,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160216.slp"
+        },
+        "Game_20190922T160212.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 7,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 16:02:12",
+            "searchdate": "2019-09-22",
+            "duration": 13436,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160212.slp"
+        },
+        "Game_20190922T160204.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff23\uff22\uff2f\uff38",
+                    "searchtag": "CBOX"
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 16:02:04",
+            "searchdate": "2019-09-22",
+            "duration": 6066,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160204.slp"
+        },
+        "Game_20190922T160203.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 16:02:03",
+            "searchdate": "2019-09-22",
+            "duration": 10077,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T160203.slp"
+        },
+        "Game_20190922T155941.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:59:41",
+            "searchdate": "2019-09-22",
+            "duration": 6225,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155941.slp"
+        },
+        "Game_20190922T155913.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:59:13",
+            "searchdate": "2019-09-22",
+            "duration": 11040,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155913.slp"
+        },
+        "Game_20190922T155844.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:58:44",
+            "searchdate": "2019-09-22",
+            "duration": 10700,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155844.slp"
+        },
+        "Game_20190922T155829.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:58:29",
+            "searchdate": "2019-09-22",
+            "duration": 10816,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155829.slp"
+        },
+        "Game_20190922T155731.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 7,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:57:31",
+            "searchdate": "2019-09-22",
+            "duration": 16018,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155731.slp"
+        },
+        "Game_20190922T155723.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:57:23",
+            "searchdate": "2019-09-22",
+            "duration": 6659,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155723.slp"
+        },
+        "Game_20190922T155719.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 22,
+                    "costume": 4,
+                    "tag": "\uff26\uff32\uff2e\uff3a",
+                    "searchtag": "FRNZ"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:57:19",
+            "searchdate": "2019-09-22",
+            "duration": 16157,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155719.slp"
+        },
+        "Game_20190922T155526.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:55:26",
+            "searchdate": "2019-09-22",
+            "duration": 11576,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155526.slp"
+        },
+        "Game_20190922T155516.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:55:16",
+            "searchdate": "2019-09-22",
+            "duration": 10808,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155516.slp"
+        },
+        "Game_20190922T155441.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:54:41",
+            "searchdate": "2019-09-22",
+            "duration": 11803,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155441.slp"
+        },
+        "Game_20190922T155354.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:53:54",
+            "searchdate": "2019-09-22",
+            "duration": 11530,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155354.slp"
+        },
+        "Game_20190922T155139.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:51:39",
+            "searchdate": "2019-09-22",
+            "duration": 7193,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155139.slp"
+        },
+        "Game_20190922T155100.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:51:00",
+            "searchdate": "2019-09-22",
+            "duration": 10853,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155100.slp"
+        },
+        "Game_20190922T155047.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:50:47",
+            "searchdate": "2019-09-22",
+            "duration": 10397,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T155047.slp"
+        },
+        "Game_20190922T154942.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:49:42",
+            "searchdate": "2019-09-22",
+            "duration": 9292,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154942.slp"
+        },
+        "Game_20190922T154919.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:49:19",
+            "searchdate": "2019-09-22",
+            "duration": 8136,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154919.slp"
+        },
+        "Game_20190922T154841.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 15:48:41",
+            "searchdate": "2019-09-22",
+            "duration": 9785,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154841.slp"
+        },
+        "Game_20190922T154755.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:47:55",
+            "searchdate": "2019-09-22",
+            "duration": 10311,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154755.slp"
+        },
+        "Game_20190922T154742.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:47:42",
+            "searchdate": "2019-09-22",
+            "duration": 6370,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154742.slp"
+        },
+        "Game_20190922T154740.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 15:47:40",
+            "searchdate": "2019-09-22",
+            "duration": 9115,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154740.slp"
+        },
+        "Game_20190922T154632.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:46:32",
+            "searchdate": "2019-09-22",
+            "duration": 7546,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154632.slp"
+        },
+        "Game_20190922T154552.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:45:52",
+            "searchdate": "2019-09-22",
+            "duration": 11429,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154552.slp"
+        },
+        "Game_20190922T154550.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:45:50",
+            "searchdate": "2019-09-22",
+            "duration": 8707,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154550.slp"
+        },
+        "Game_20190922T154303.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:43:03",
+            "searchdate": "2019-09-22",
+            "duration": 8145,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154303.slp"
+        },
+        "Game_20190922T154302.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:43:02",
+            "searchdate": "2019-09-22",
+            "duration": 8501,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154302.slp"
+        },
+        "Game_20190922T154230.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:42:30",
+            "searchdate": "2019-09-22",
+            "duration": 10949,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154230.slp"
+        },
+        "Game_20190922T154210.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 15:42:10",
+            "searchdate": "2019-09-22",
+            "duration": 10441,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154210.slp"
+        },
+        "Game_20190922T154203.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:42:03",
+            "searchdate": "2019-09-22",
+            "duration": 8307,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154203.slp"
+        },
+        "Game_20190922T154018.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:40:18",
+            "searchdate": "2019-09-22",
+            "duration": 9057,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T154018.slp"
+        },
+        "Game_20190922T153959.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:39:59",
+            "searchdate": "2019-09-22",
+            "duration": 8496,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153959.slp"
+        },
+        "Game_20190922T153956.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:39:56",
+            "searchdate": "2019-09-22",
+            "duration": 5920,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153956.slp"
+        },
+        "Game_20190922T153944.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:39:44",
+            "searchdate": "2019-09-22",
+            "duration": 8499,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153944.slp"
+        },
+        "Game_20190922T153900.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:39:00",
+            "searchdate": "2019-09-22",
+            "duration": 9295,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153900.slp"
+        },
+        "Game_20190922T153805.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:38:05",
+            "searchdate": "2019-09-22",
+            "duration": 13913,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153805.slp"
+        },
+        "Game_20190922T153722.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:37:22",
+            "searchdate": "2019-09-22",
+            "duration": 5320,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153722.slp"
+        },
+        "Game_20190922T153535.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:35:35",
+            "searchdate": "2019-09-22",
+            "duration": 11736,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153535.slp"
+        },
+        "Game_20190922T153424.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:34:24",
+            "searchdate": "2019-09-22",
+            "duration": 9645,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153424.slp"
+        },
+        "Game_20190922T153413.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:34:13",
+            "searchdate": "2019-09-22",
+            "duration": 5448,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153413.slp"
+        },
+        "Game_20190922T153410.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:34:10",
+            "searchdate": "2019-09-22",
+            "duration": 11554,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153410.slp"
+        },
+        "Game_20190922T153242.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:32:42",
+            "searchdate": "2019-09-22",
+            "duration": 4448,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153242.slp"
+        },
+        "Game_20190922T153159.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2a\uff10\uff2a\uff10",
+                    "searchtag": "J0J0"
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:31:59",
+            "searchdate": "2019-09-22",
+            "duration": 11918,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153159.slp"
+        },
+        "Game_20190922T153055.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:30:55",
+            "searchdate": "2019-09-22",
+            "duration": 9074,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153055.slp"
+        },
+        "Game_20190922T153035.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:30:35",
+            "searchdate": "2019-09-22",
+            "duration": 6810,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153035.slp"
+        },
+        "Game_20190922T153009.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:30:09",
+            "searchdate": "2019-09-22",
+            "duration": 10577,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T153009.slp"
+        },
+        "Game_20190922T152840.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:28:40",
+            "searchdate": "2019-09-22",
+            "duration": 9579,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152840.slp"
+        },
+        "Game_20190922T152831.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:28:31",
+            "searchdate": "2019-09-22",
+            "duration": 10501,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152831.slp"
+        },
+        "Game_20190922T152811.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 15:28:11",
+            "searchdate": "2019-09-22",
+            "duration": 9112,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152811.slp"
+        },
+        "Game_20190922T152730.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:27:30",
+            "searchdate": "2019-09-22",
+            "duration": 10186,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152730.slp"
+        },
+        "Game_20190922T152658.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:26:58",
+            "searchdate": "2019-09-22",
+            "duration": 10710,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152658.slp"
+        },
+        "Game_20190922T152608.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:26:08",
+            "searchdate": "2019-09-22",
+            "duration": 7916,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152608.slp"
+        },
+        "Game_20190922T152522.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:25:22",
+            "searchdate": "2019-09-22",
+            "duration": 13991,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152522.slp"
+        },
+        "Game_20190922T152504.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 15:25:04",
+            "searchdate": "2019-09-22",
+            "duration": 11683,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152504.slp"
+        },
+        "Game_20190922T152453.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:24:53",
+            "searchdate": "2019-09-22",
+            "duration": 8990,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152453.slp"
+        },
+        "Game_20190922T152305.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "\uff39\uff35\uff28",
+                    "searchtag": "YUH"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:23:05",
+            "searchdate": "2019-09-22",
+            "duration": 12969,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152305.slp"
+        },
+        "Game_20190922T152136.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:21:36",
+            "searchdate": "2019-09-22",
+            "duration": 11327,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152136.slp"
+        },
+        "Game_20190922T152124.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "\uff33\uff25\uff21\uff2c",
+                    "searchtag": "SEAL"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:21:24",
+            "searchdate": "2019-09-22",
+            "duration": 13025,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152124.slp"
+        },
+        "Game_20190922T152048.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:20:48",
+            "searchdate": "2019-09-22",
+            "duration": 10187,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T152048.slp"
+        },
+        "Game_20190922T151841.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:18:41",
+            "searchdate": "2019-09-22",
+            "duration": 9090,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151841.slp"
+        },
+        "Game_20190922T151808.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:18:08",
+            "searchdate": "2019-09-22",
+            "duration": 6190,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151808.slp"
+        },
+        "Game_20190922T151712.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:17:12",
+            "searchdate": "2019-09-22",
+            "duration": 12615,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151712.slp"
+        },
+        "Game_20190922T151618.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:16:18",
+            "searchdate": "2019-09-22",
+            "duration": 7205,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151618.slp"
+        },
+        "Game_20190922T151542.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 3,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:15:42",
+            "searchdate": "2019-09-22",
+            "duration": 5596,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151542.slp"
+        },
+        "Game_20190922T151438.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:14:38",
+            "searchdate": "2019-09-22",
+            "duration": 12301,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151438.slp"
+        },
+        "Game_20190922T151433.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "\uff22\uff05\uff38",
+                    "searchtag": "B%X"
+                },
+                {
+                    "number": 2,
+                    "character": 18,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:14:33",
+            "searchdate": "2019-09-22",
+            "duration": 11779,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151433.slp"
+        },
+        "Game_20190922T151411.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:14:11",
+            "searchdate": "2019-09-22",
+            "duration": 9862,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151411.slp"
+        },
+        "Game_20190922T151152.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:11:52",
+            "searchdate": "2019-09-22",
+            "duration": 7511,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151152.slp"
+        },
+        "Game_20190922T151129.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2e\uff37\uff32\uff24",
+                    "searchtag": "NWRD"
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:11:29",
+            "searchdate": "2019-09-22",
+            "duration": 5668,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151129.slp"
+        },
+        "Game_20190922T151017.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 15:10:17",
+            "searchdate": "2019-09-22",
+            "duration": 4535,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151017.slp"
+        },
+        "Game_20190922T151015.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:10:15",
+            "searchdate": "2019-09-22",
+            "duration": 11910,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151015.slp"
+        },
+        "Game_20190922T151001.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "\uff39\uff39\uff28",
+                    "searchtag": "YYH"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:10:01",
+            "searchdate": "2019-09-22",
+            "duration": 14564,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T151001.slp"
+        },
+        "Game_20190922T150846.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2e\uff37\uff32\uff24",
+                    "searchtag": "NWRD"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:08:46",
+            "searchdate": "2019-09-22",
+            "duration": 8248,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150846.slp"
+        },
+        "Game_20190922T150710.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 13,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 15:07:10",
+            "searchdate": "2019-09-22",
+            "duration": 9609,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150710.slp"
+        },
+        "Game_20190922T150654.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:06:54",
+            "searchdate": "2019-09-22",
+            "duration": 11160,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150654.slp"
+        },
+        "Game_20190922T150544.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 15:05:44",
+            "searchdate": "2019-09-22",
+            "duration": 10266,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150544.slp"
+        },
+        "Game_20190922T150426.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff21\uff24\uff32",
+                    "searchtag": "ADR"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2e\uff37\uff32\uff24",
+                    "searchtag": "NWRD"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:04:26",
+            "searchdate": "2019-09-22",
+            "duration": 12342,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150426.slp"
+        },
+        "Game_20190922T150404.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 13,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 15:04:04",
+            "searchdate": "2019-09-22",
+            "duration": 9832,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150404.slp"
+        },
+        "Game_20190922T150321.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:03:21",
+            "searchdate": "2019-09-22",
+            "duration": 7558,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150321.slp"
+        },
+        "Game_20190922T150014.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 15:00:14",
+            "searchdate": "2019-09-22",
+            "duration": 4887,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T150014.slp"
+        },
+        "Game_20190922T145908.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:59:08",
+            "searchdate": "2019-09-22",
+            "duration": 8324,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145908.slp"
+        },
+        "Game_20190922T145814.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 14:58:14",
+            "searchdate": "2019-09-22",
+            "duration": 9962,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145814.slp"
+        },
+        "Game_20190922T145734.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 14:57:34",
+            "searchdate": "2019-09-22",
+            "duration": 14604,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145734.slp"
+        },
+        "Game_20190922T145641.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:56:41",
+            "searchdate": "2019-09-22",
+            "duration": 8873,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145641.slp"
+        },
+        "Game_20190922T145608.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:56:08",
+            "searchdate": "2019-09-22",
+            "duration": 9831,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145608.slp"
+        },
+        "Game_20190922T145530.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 14:55:30",
+            "searchdate": "2019-09-22",
+            "duration": 9573,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145530.slp"
+        },
+        "Game_20190922T145346.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 14:53:46",
+            "searchdate": "2019-09-22",
+            "duration": 12648,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145346.slp"
+        },
+        "Game_20190922T145308.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 14:53:08",
+            "searchdate": "2019-09-22",
+            "duration": 9979,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145308.slp"
+        },
+        "Game_20190922T145238.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:52:38",
+            "searchdate": "2019-09-22",
+            "duration": 13001,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145238.slp"
+        },
+        "Game_20190922T145154.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:51:54",
+            "searchdate": "2019-09-22",
+            "duration": 5297,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145154.slp"
+        },
+        "Game_20190922T145030.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 14:50:30",
+            "searchdate": "2019-09-22",
+            "duration": 7995,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145030.slp"
+        },
+        "Game_20190922T145029.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 14:50:29",
+            "searchdate": "2019-09-22",
+            "duration": 10337,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T145029.slp"
+        },
+        "Game_20190922T144930.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 14:49:30",
+            "searchdate": "2019-09-22",
+            "duration": 12285,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144930.slp"
+        },
+        "Game_20190922T144904.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:49:04",
+            "searchdate": "2019-09-22",
+            "duration": 8357,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144904.slp"
+        },
+        "Game_20190922T144848.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "09/22/2019, 14:48:48",
+            "searchdate": "2019-09-22",
+            "duration": 12460,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144848.slp"
+        },
+        "Game_20190922T144710.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:47:10",
+            "searchdate": "2019-09-22",
+            "duration": 9676,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144710.slp"
+        },
+        "Game_20190922T144629.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 14:46:29",
+            "searchdate": "2019-09-22",
+            "duration": 7051,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144629.slp"
+        },
+        "Game_20190922T144555.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:45:55",
+            "searchdate": "2019-09-22",
+            "duration": 10402,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144555.slp"
+        },
+        "Game_20190922T144519.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:45:19",
+            "searchdate": "2019-09-22",
+            "duration": 7004,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144519.slp"
+        },
+        "Game_20190922T144513.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "09/22/2019, 14:45:13",
+            "searchdate": "2019-09-22",
+            "duration": 10848,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144513.slp"
+        },
+        "Game_20190922T144403.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 14:44:03",
+            "searchdate": "2019-09-22",
+            "duration": 9480,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144403.slp"
+        },
+        "Game_20190922T144315.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 14:43:15",
+            "searchdate": "2019-09-22",
+            "duration": 6537,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144315.slp"
+        },
+        "Game_20190922T144242.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:42:42",
+            "searchdate": "2019-09-22",
+            "duration": 8157,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144242.slp"
+        },
+        "Game_20190922T144222.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "09/22/2019, 14:42:22",
+            "searchdate": "2019-09-22",
+            "duration": 9274,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144222.slp"
+        },
+        "Game_20190922T144147.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "09/22/2019, 14:41:47",
+            "searchdate": "2019-09-22",
+            "duration": 6982,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144147.slp"
+        },
+        "Game_20190922T144030.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "09/22/2019, 14:40:30",
+            "searchdate": "2019-09-22",
+            "duration": 9001,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T144030.slp"
+        },
+        "Game_20190922T143912.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 14:39:12",
+            "searchdate": "2019-09-22",
+            "duration": 11453,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T143912.slp"
+        },
+        "Game_20190922T143853.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 19,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "09/22/2019, 14:38:53",
+            "searchdate": "2019-09-22",
+            "duration": 8166,
+            "dllink": "../../replays/Between 2 Lakes #22/Game_20190922T143853.slp"
         }
     }
 }
