@@ -344,5 +344,76 @@
             "duration": 9457,
             "dllink": "../../replays/Between 2 Lakes #23/Game_20190929T182015.slp"
         }
+    },
+    "Between 2 Lakes #24": {
+        "Game_20191013T184225.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/13/2019, 18:42:25",
+            "searchdate": "2019-10-13",
+            "duration": 9776,
+            "dllink": "../../replays/Between 2 Lakes #24/Game_20191013T184225.slp"
+        },
+        "Game_20191013T184157.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/13/2019, 18:41:57",
+            "searchdate": "2019-10-13",
+            "duration": 10849,
+            "dllink": "../../replays/Between 2 Lakes #24/Game_20191013T184157.slp"
+        },
+        "Game_20191013T183946.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/13/2019, 18:39:46",
+            "searchdate": "2019-10-13",
+            "duration": 8475,
+            "dllink": "../../replays/Between 2 Lakes #24/Game_20191013T183946.slp"
+        }
     }
 }
