@@ -34648,5 +34648,3183 @@
             "duration": 6648,
             "dllink": "../../replays/Between 2 Lakes #24/Game_20191013T122803.slp"
         }
+    },
+    "Between 2 Lakes #25": {
+        "Game_20191027T170158.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 17:01:58",
+            "searchdate": "2019-10-27",
+            "duration": 8797,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T170158.slp"
+        },
+        "Game_20191027T165957.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:59:57",
+            "searchdate": "2019-10-27",
+            "duration": 6636,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165957.slp"
+        },
+        "Game_20191027T165649.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:56:49",
+            "searchdate": "2019-10-27",
+            "duration": 10407,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165649.slp"
+        },
+        "Game_20191027T165401.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:54:01",
+            "searchdate": "2019-10-27",
+            "duration": 10355,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165401.slp"
+        },
+        "Game_20191027T165322.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:53:22",
+            "searchdate": "2019-10-27",
+            "duration": 11512,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165322.slp"
+        },
+        "Game_20191027T165114.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:51:14",
+            "searchdate": "2019-10-27",
+            "duration": 8778,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165114.slp"
+        },
+        "Game_20191027T165023.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:50:23",
+            "searchdate": "2019-10-27",
+            "duration": 9944,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T165023.slp"
+        },
+        "Game_20191027T164849.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:48:49",
+            "searchdate": "2019-10-27",
+            "duration": 7195,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164849.slp"
+        },
+        "Game_20191027T164811.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:48:11",
+            "searchdate": "2019-10-27",
+            "duration": 7087,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164811.slp"
+        },
+        "Game_20191027T164544.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:45:44",
+            "searchdate": "2019-10-27",
+            "duration": 7906,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164544.slp"
+        },
+        "Game_20191027T164529.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:45:29",
+            "searchdate": "2019-10-27",
+            "duration": 10709,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164529.slp"
+        },
+        "Game_20191027T164311.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:43:11",
+            "searchdate": "2019-10-27",
+            "duration": 7181,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164311.slp"
+        },
+        "Game_20191027T164306.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:43:06",
+            "searchdate": "2019-10-27",
+            "duration": 8645,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164306.slp"
+        },
+        "Game_20191027T164215.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:42:15",
+            "searchdate": "2019-10-27",
+            "duration": 1918,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164215.slp"
+        },
+        "Game_20191027T164020.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:40:20",
+            "searchdate": "2019-10-27",
+            "duration": 6173,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164020.slp"
+        },
+        "Game_20191027T164006.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:40:06",
+            "searchdate": "2019-10-27",
+            "duration": 9866,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T164006.slp"
+        },
+        "Game_20191027T163725.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:37:25",
+            "searchdate": "2019-10-27",
+            "duration": 8857,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163725.slp"
+        },
+        "Game_20191027T163544.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:35:44",
+            "searchdate": "2019-10-27",
+            "duration": 15790,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163544.slp"
+        },
+        "Game_20191027T163447.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:34:47",
+            "searchdate": "2019-10-27",
+            "duration": 8755,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163447.slp"
+        },
+        "Game_20191027T163334.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:33:34",
+            "searchdate": "2019-10-27",
+            "duration": 6697,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163334.slp"
+        },
+        "Game_20191027T163207.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:32:07",
+            "searchdate": "2019-10-27",
+            "duration": 8528,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163207.slp"
+        },
+        "Game_20191027T163052.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:30:52",
+            "searchdate": "2019-10-27",
+            "duration": 8775,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T163052.slp"
+        },
+        "Game_20191027T162918.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:29:18",
+            "searchdate": "2019-10-27",
+            "duration": 8667,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162918.slp"
+        },
+        "Game_20191027T162808.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:28:08",
+            "searchdate": "2019-10-27",
+            "duration": 9025,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162808.slp"
+        },
+        "Game_20191027T162632.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:26:32",
+            "searchdate": "2019-10-27",
+            "duration": 9131,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162632.slp"
+        },
+        "Game_20191027T162505.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:25:05",
+            "searchdate": "2019-10-27",
+            "duration": 10158,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162505.slp"
+        },
+        "Game_20191027T162311.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:23:11",
+            "searchdate": "2019-10-27",
+            "duration": 10059,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162311.slp"
+        },
+        "Game_20191027T162252.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:22:52",
+            "searchdate": "2019-10-27",
+            "duration": 7049,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162252.slp"
+        },
+        "Game_20191027T162042.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:20:42",
+            "searchdate": "2019-10-27",
+            "duration": 8411,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162042.slp"
+        },
+        "Game_20191027T162029.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:20:29",
+            "searchdate": "2019-10-27",
+            "duration": 7715,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T162029.slp"
+        },
+        "Game_20191027T161838.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:18:38",
+            "searchdate": "2019-10-27",
+            "duration": 6749,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T161838.slp"
+        },
+        "Game_20191027T161829.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:18:29",
+            "searchdate": "2019-10-27",
+            "duration": 6405,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T161829.slp"
+        },
+        "Game_20191027T161613.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:16:13",
+            "searchdate": "2019-10-27",
+            "duration": 7482,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T161613.slp"
+        },
+        "Game_20191027T161523.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:15:23",
+            "searchdate": "2019-10-27",
+            "duration": 10827,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T161523.slp"
+        },
+        "Game_20191027T160943.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:09:43",
+            "searchdate": "2019-10-27",
+            "duration": 15488,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160943.slp"
+        },
+        "Game_20191027T160855.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 16:08:55",
+            "searchdate": "2019-10-27",
+            "duration": 22078,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160855.slp"
+        },
+        "Game_20191027T160745.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 20,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 16:07:45",
+            "searchdate": "2019-10-27",
+            "duration": 3349,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160745.slp"
+        },
+        "Game_20191027T160606.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:06:06",
+            "searchdate": "2019-10-27",
+            "duration": 11799,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160606.slp"
+        },
+        "Game_20191027T160448.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 16:04:48",
+            "searchdate": "2019-10-27",
+            "duration": 9366,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160448.slp"
+        },
+        "Game_20191027T160358.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 21,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 16:03:58",
+            "searchdate": "2019-10-27",
+            "duration": 6636,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160358.slp"
+        },
+        "Game_20191027T160159.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 21,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 16:01:59",
+            "searchdate": "2019-10-27",
+            "duration": 6433,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160159.slp"
+        },
+        "Game_20191027T160145.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 16:01:45",
+            "searchdate": "2019-10-27",
+            "duration": 9781,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T160145.slp"
+        },
+        "Game_20191027T155741.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 15:57:41",
+            "searchdate": "2019-10-27",
+            "duration": 9838,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155741.slp"
+        },
+        "Game_20191027T155725.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 20,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:57:25",
+            "searchdate": "2019-10-27",
+            "duration": 14197,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155725.slp"
+        },
+        "Game_20191027T155638.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:56:38",
+            "searchdate": "2019-10-27",
+            "duration": 995,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155638.slp"
+        },
+        "Game_20191027T155355.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 15:53:55",
+            "searchdate": "2019-10-27",
+            "duration": 8737,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155355.slp"
+        },
+        "Game_20191027T155224.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 15:52:24",
+            "searchdate": "2019-10-27",
+            "duration": 17992,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155224.slp"
+        },
+        "Game_20191027T155034.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:50:34",
+            "searchdate": "2019-10-27",
+            "duration": 11175,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T155034.slp"
+        },
+        "Game_20191027T154900.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:49:00",
+            "searchdate": "2019-10-27",
+            "duration": 11549,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154900.slp"
+        },
+        "Game_20191027T154804.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 15:48:04",
+            "searchdate": "2019-10-27",
+            "duration": 7794,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154804.slp"
+        },
+        "Game_20191027T154556.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 15:45:56",
+            "searchdate": "2019-10-27",
+            "duration": 6756,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154556.slp"
+        },
+        "Game_20191027T154508.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 15:45:08",
+            "searchdate": "2019-10-27",
+            "duration": 1686,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154508.slp"
+        },
+        "Game_20191027T154432.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 15:44:32",
+            "searchdate": "2019-10-27",
+            "duration": 154,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154432.slp"
+        },
+        "Game_20191027T154020.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:40:20",
+            "searchdate": "2019-10-27",
+            "duration": 7516,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154020.slp"
+        },
+        "Game_20191027T154002.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": 4,
+            "datetime": "10/27/2019, 15:40:02",
+            "searchdate": "2019-10-27",
+            "duration": 8224,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T154002.slp"
+        },
+        "Game_20191027T153820.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/27/2019, 15:38:20",
+            "searchdate": "2019-10-27",
+            "duration": 5496,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T153820.slp"
+        },
+        "Game_20191027T153527.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 15:35:27",
+            "searchdate": "2019-10-27",
+            "duration": 8023,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T153527.slp"
+        },
+        "Game_20191027T153315.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:33:15",
+            "searchdate": "2019-10-27",
+            "duration": 6765,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T153315.slp"
+        },
+        "Game_20191027T153314.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": 14,
+            "datetime": "10/27/2019, 15:33:14",
+            "searchdate": "2019-10-27",
+            "duration": 22470,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T153314.slp"
+        },
+        "Game_20191027T153118.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:31:18",
+            "searchdate": "2019-10-27",
+            "duration": 6005,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T153118.slp"
+        },
+        "Game_20191027T152753.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 15:27:53",
+            "searchdate": "2019-10-27",
+            "duration": 18053,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T152753.slp"
+        },
+        "Game_20191027T152631.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/27/2019, 15:26:31",
+            "searchdate": "2019-10-27",
+            "duration": 8844,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T152631.slp"
+        },
+        "Game_20191027T152307.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 1,
+                    "tag": "\uff24\uff29\uff2f",
+                    "searchtag": "DIO"
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:23:07",
+            "searchdate": "2019-10-27",
+            "duration": 11222,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T152307.slp"
+        },
+        "Game_20191027T152110.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 18,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 15:21:10",
+            "searchdate": "2019-10-27",
+            "duration": 7750,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T152110.slp"
+        },
+        "Game_20191027T152033.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/27/2019, 15:20:33",
+            "searchdate": "2019-10-27",
+            "duration": 150,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T152033.slp"
+        },
+        "Game_20191027T151810.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 19,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:18:10",
+            "searchdate": "2019-10-27",
+            "duration": 7507,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T151810.slp"
+        },
+        "Game_20191027T151659.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:16:59",
+            "searchdate": "2019-10-27",
+            "duration": 12764,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T151659.slp"
+        },
+        "Game_20191027T151326.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/27/2019, 15:13:26",
+            "searchdate": "2019-10-27",
+            "duration": 11466,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T151326.slp"
+        },
+        "Game_20191027T151141.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/27/2019, 15:11:41",
+            "searchdate": "2019-10-27",
+            "duration": 3520,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T151141.slp"
+        },
+        "Game_20191027T150812.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 5,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/27/2019, 15:08:12",
+            "searchdate": "2019-10-27",
+            "duration": 11086,
+            "dllink": "../../replays/Between 2 Lakes #25/Game_20191027T150812.slp"
+        }
+    },
+    "Wolfpack Rumble #1": {
+        "Game_20210221T061845.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 3,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 06:18:45",
+            "searchdate": "2021-02-21",
+            "duration": 8444,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T061845.slp"
+        },
+        "Game_20210221T061538.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 06:15:38",
+            "searchdate": "2021-02-21",
+            "duration": 10173,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T061538.slp"
+        },
+        "Game_20210221T061241.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 9,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 06:12:41",
+            "searchdate": "2021-02-21",
+            "duration": 10247,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T061241.slp"
+        },
+        "Game_20210221T060920.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 06:09:20",
+            "searchdate": "2021-02-21",
+            "duration": 9490,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T060920.slp"
+        },
+        "Game_20210221T060703.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 06:07:03",
+            "searchdate": "2021-02-21",
+            "duration": 6926,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T060703.slp"
+        },
+        "Game_20210221T060541.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 0,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 06:05:41",
+            "searchdate": "2021-02-21",
+            "duration": 4060,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T060541.slp"
+        },
+        "Game_20210221T044018.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff30\uff36\uff23\uff28",
+                    "searchtag": "PVCH"
+                },
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 04:40:18",
+            "searchdate": "2021-02-21",
+            "duration": 4267,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T044018.slp"
+        },
+        "Game_20210221T043816.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff30\uff36\uff23\uff28",
+                    "searchtag": "PVCH"
+                },
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 04:38:16",
+            "searchdate": "2021-02-21",
+            "duration": 6762,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T043816.slp"
+        },
+        "Game_20210221T043226.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 04:32:26",
+            "searchdate": "2021-02-21",
+            "duration": 188,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T043226.slp"
+        },
+        "Game_20210221T040957.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 04:09:57",
+            "searchdate": "2021-02-21",
+            "duration": 10446,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T040957.slp"
+        },
+        "Game_20210221T040653.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 04:06:53",
+            "searchdate": "2021-02-21",
+            "duration": 9271,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T040653.slp"
+        },
+        "Game_20210221T040354.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 19,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 04:03:54",
+            "searchdate": "2021-02-21",
+            "duration": 9079,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T040354.slp"
+        },
+        "Game_20210221T035306.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 03:53:06",
+            "searchdate": "2021-02-21",
+            "duration": 18285,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T035306.slp"
+        },
+        "Game_20210221T034837.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 0,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 03:48:37",
+            "searchdate": "2021-02-21",
+            "duration": 14666,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T034837.slp"
+        },
+        "Game_20210221T034132.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 03:41:32",
+            "searchdate": "2021-02-21",
+            "duration": 9471,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T034132.slp"
+        },
+        "Game_20210221T033755.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 03:37:55",
+            "searchdate": "2021-02-21",
+            "duration": 11506,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T033755.slp"
+        },
+        "Game_20210221T033407.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 03:34:07",
+            "searchdate": "2021-02-21",
+            "duration": 11011,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T033407.slp"
+        },
+        "Game_20210221T033000.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 03:30:00",
+            "searchdate": "2021-02-21",
+            "duration": 12010,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T033000.slp"
+        },
+        "Game_20210221T032620.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 03:26:20",
+            "searchdate": "2021-02-21",
+            "duration": 10317,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T032620.slp"
+        },
+        "Game_20210221T032347.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 03:23:47",
+            "searchdate": "2021-02-21",
+            "duration": 8629,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T032347.slp"
+        },
+        "Game_20210221T032011.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 03:20:11",
+            "searchdate": "2021-02-21",
+            "duration": 12347,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T032011.slp"
+        },
+        "Game_20210221T031656.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 03:16:56",
+            "searchdate": "2021-02-21",
+            "duration": 11056,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T031656.slp"
+        },
+        "Game_20210221T031509.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 03:15:09",
+            "searchdate": "2021-02-21",
+            "duration": 5914,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T031509.slp"
+        },
+        "Game_20210221T031144.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 03:11:44",
+            "searchdate": "2021-02-21",
+            "duration": 11617,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T031144.slp"
+        },
+        "Game_20210221T031049.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 03:10:49",
+            "searchdate": "2021-02-21",
+            "duration": 3229,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T031049.slp"
+        },
+        "Game_20210221T030751.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 2,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 03:07:51",
+            "searchdate": "2021-02-21",
+            "duration": 10097,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T030751.slp"
+        },
+        "Game_20210221T022223.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 02:22:23",
+            "searchdate": "2021-02-21",
+            "duration": 7788,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T022223.slp"
+        },
+        "Game_20210221T021952.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 02:19:52",
+            "searchdate": "2021-02-21",
+            "duration": 8327,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T021952.slp"
+        },
+        "Game_20210221T021745.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 02:17:45",
+            "searchdate": "2021-02-21",
+            "duration": 6860,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T021745.slp"
+        },
+        "Game_20210221T021505.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 02:15:05",
+            "searchdate": "2021-02-21",
+            "duration": 9070,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T021505.slp"
+        },
+        "Game_20210221T021256.slp": {
+            "players": [
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 02:12:56",
+            "searchdate": "2021-02-21",
+            "duration": 7041,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T021256.slp"
+        },
+        "Game_20210221T020823.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 3,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 02:08:23",
+            "searchdate": "2021-02-21",
+            "duration": 13268,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T020823.slp"
+        },
+        "Game_20210221T020624.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 02:06:24",
+            "searchdate": "2021-02-21",
+            "duration": 6568,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T020624.slp"
+        },
+        "Game_20210221T020233.slp": {
+            "players": [
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 02:02:33",
+            "searchdate": "2021-02-21",
+            "duration": 13077,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T020233.slp"
+        },
+        "Game_20210221T020032.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 02:00:32",
+            "searchdate": "2021-02-21",
+            "duration": 5951,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T020032.slp"
+        },
+        "Game_20210221T015920.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 3,
+                    "character": 25,
+                    "costume": 2,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 01:59:20",
+            "searchdate": "2021-02-21",
+            "duration": 3808,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T015920.slp"
+        },
+        "Game_20210221T015344.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "02/21/2021, 01:53:44",
+            "searchdate": "2021-02-21",
+            "duration": 10966,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T015344.slp"
+        },
+        "Game_20210221T014920.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 21,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 14,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "02/21/2021, 01:49:20",
+            "searchdate": "2021-02-21",
+            "duration": 13990,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T014920.slp"
+        },
+        "Game_20210221T014207.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "02/21/2021, 01:42:07",
+            "searchdate": "2021-02-21",
+            "duration": 11540,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T014207.slp"
+        },
+        "Game_20210221T013937.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "02/21/2021, 01:39:37",
+            "searchdate": "2021-02-21",
+            "duration": 8556,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T013937.slp"
+        },
+        "Game_20210221T013659.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "02/21/2021, 01:36:59",
+            "searchdate": "2021-02-21",
+            "duration": 9001,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T013659.slp"
+        },
+        "Game_20210221T013418.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 2,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "02/21/2021, 01:34:18",
+            "searchdate": "2021-02-21",
+            "duration": 9279,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20210221T013418.slp"
+        },
+        "Game_20191011T205755.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/11/2019, 20:57:55",
+            "searchdate": "2019-10-11",
+            "duration": 3029,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T205755.slp"
+        },
+        "Game_20191011T205537.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/11/2019, 20:55:37",
+            "searchdate": "2019-10-11",
+            "duration": 7341,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T205537.slp"
+        },
+        "Game_20191011T205342.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Pok\u00e9mon Stadium",
+            "datetime": "10/11/2019, 20:53:42",
+            "searchdate": "2019-10-11",
+            "duration": 6472,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T205342.slp"
+        },
+        "Game_20191011T205141.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Dream Land N64",
+            "datetime": "10/11/2019, 20:51:41",
+            "searchdate": "2019-10-11",
+            "duration": 6979,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T205141.slp"
+        },
+        "Game_20191011T204834.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 20:48:34",
+            "searchdate": "2019-10-11",
+            "duration": 10466,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T204834.slp"
+        },
+        "Game_20191011T204650.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 20:46:50",
+            "searchdate": "2019-10-11",
+            "duration": 6109,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T204650.slp"
+        },
+        "Game_20191011T204445.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 0,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 20:44:45",
+            "searchdate": "2019-10-11",
+            "duration": 6256,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T204445.slp"
+        },
+        "Game_20191011T204216.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 20,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/11/2019, 20:42:16",
+            "searchdate": "2019-10-11",
+            "duration": 7251,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T204216.slp"
+        },
+        "Game_20191011T202136.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 20:21:36",
+            "searchdate": "2019-10-11",
+            "duration": 15328,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T202136.slp"
+        },
+        "Game_20191011T201730.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 20:17:30",
+            "searchdate": "2019-10-11",
+            "duration": 14326,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T201730.slp"
+        },
+        "Game_20191011T201459.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 20:14:59",
+            "searchdate": "2019-10-11",
+            "duration": 8543,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T201459.slp"
+        },
+        "Game_20191011T201201.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 15,
+                    "costume": 2,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 20:12:01",
+            "searchdate": "2019-10-11",
+            "duration": 10337,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T201201.slp"
+        },
+        "Game_20191011T200721.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 18,
+                    "costume": 4,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/11/2019, 20:07:21",
+            "searchdate": "2019-10-11",
+            "duration": 12523,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T200721.slp"
+        },
+        "Game_20191011T200358.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Final Destination",
+            "datetime": "10/11/2019, 20:03:58",
+            "searchdate": "2019-10-11",
+            "duration": 11608,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T200358.slp"
+        },
+        "Game_20191011T200012.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 20:00:12",
+            "searchdate": "2019-10-11",
+            "duration": 12890,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T200012.slp"
+        },
+        "Game_20191011T195624.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 4,
+                    "tag": "\uff33\uff37\uff2f\uff30",
+                    "searchtag": "SWOP"
+                },
+                {
+                    "number": 4,
+                    "character": 12,
+                    "costume": 0,
+                    "tag": "Player 4",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 19:56:24",
+            "searchdate": "2019-10-11",
+            "duration": 13130,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T195624.slp"
+        },
+        "Game_20191011T195144.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/11/2019, 19:51:44",
+            "searchdate": "2019-10-11",
+            "duration": 10298,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T195144.slp"
+        },
+        "Game_20191011T194809.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/11/2019, 19:48:09",
+            "searchdate": "2019-10-11",
+            "duration": 11654,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T194809.slp"
+        },
+        "Game_20191011T194301.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 19:43:01",
+            "searchdate": "2019-10-11",
+            "duration": 17912,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T194301.slp"
+        },
+        "Game_20191011T193841.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 16,
+                    "costume": 1,
+                    "tag": "Player 1",
+                    "searchtag": ""
+                },
+                {
+                    "number": 2,
+                    "character": 2,
+                    "costume": 1,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 19:38:41",
+            "searchdate": "2019-10-11",
+            "duration": 15183,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T193841.slp"
+        },
+        "Game_20191011T184301.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff30\uff36\uff23\uff28",
+                    "searchtag": "PVCH"
+                },
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 3,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/11/2019, 18:43:01",
+            "searchdate": "2019-10-11",
+            "duration": 9548,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T184301.slp"
+        },
+        "Game_20191011T184034.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 2,
+                    "costume": 3,
+                    "tag": "\uff30\uff36\uff23\uff28",
+                    "searchtag": "PVCH"
+                },
+                {
+                    "number": 3,
+                    "character": 0,
+                    "costume": 4,
+                    "tag": "Player 3",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 18:40:34",
+            "searchdate": "2019-10-11",
+            "duration": 7700,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T184034.slp"
+        },
+        "Game_20191011T183500.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 16,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 18:35:00",
+            "searchdate": "2019-10-11",
+            "duration": 14073,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T183500.slp"
+        },
+        "Game_20191011T183452.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 16,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Yoshi's Story",
+            "datetime": "10/11/2019, 18:34:52",
+            "searchdate": "2019-10-11",
+            "duration": 132,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T183452.slp"
+        },
+        "Game_20191011T182958.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 16,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Fountain of Dreams",
+            "datetime": "10/11/2019, 18:29:58",
+            "searchdate": "2019-10-11",
+            "duration": 17535,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T182958.slp"
+        },
+        "Game_20191011T182838.slp": {
+            "players": [
+                {
+                    "number": 1,
+                    "character": 9,
+                    "costume": 4,
+                    "tag": "\uff2c\uff2d\uff21\uff2f",
+                    "searchtag": "LMAO"
+                },
+                {
+                    "number": 2,
+                    "character": 16,
+                    "costume": 0,
+                    "tag": "Player 2",
+                    "searchtag": ""
+                }
+            ],
+            "stage": "Battlefield",
+            "datetime": "10/11/2019, 18:28:38",
+            "searchdate": "2019-10-11",
+            "duration": 3860,
+            "dllink": "../../replays/Wolfpack Rumble #1/Game_20191011T182838.slp"
+        }
     }
 }
